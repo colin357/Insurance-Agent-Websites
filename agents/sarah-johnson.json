@@ -1,0 +1,15 @@
+{
+  "slug": "sarah-johnson",
+  "template": "modern-minimalist",
+  "name": "Sarah Johnson",
+  "phone": "(512) 555-0147",
+  "email": "sarah@johnsoninsurance.com",
+  "photo": "",
+  "licenseNumber": "TX-7829451",
+  "bio": "With over 12 years of experience in the insurance industry, I help families and businesses across Central Texas find the coverage they need at prices they can afford. My goal is to make insurance simple and stress-free.",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "address": "4521 Congress Ave, Suite 200"
+  }
+}
