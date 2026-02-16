@@ -189,7 +189,7 @@ export default function SplitScreenHeroLanding({
                 <img
                   src={agent.photo}
                   alt={agent.name}
-                  className="w-48 h-48 sm:w-56 sm:h-56 lg:w-72 lg:h-72 rounded-full object-cover mx-auto shadow-xl ring-4 ring-white/60"
+                  className="w-48 h-48 sm:w-56 sm:h-56 lg:w-72 lg:h-72 rounded-full object-cover object-top mx-auto shadow-xl ring-4 ring-white/60"
                 />
               ) : (
                 <div className="w-48 h-48 sm:w-56 sm:h-56 lg:w-72 lg:h-72 rounded-full bg-indigo-600 flex items-center justify-center mx-auto shadow-xl ring-4 ring-white/60">
@@ -380,7 +380,7 @@ export default function SplitScreenHeroLanding({
                       <img
                         src={agent.photo}
                         alt={agent.name}
-                        className="w-12 h-12 rounded-full object-cover"
+                        className="w-12 h-12 rounded-full object-cover object-top"
                       />
                     ) : (
                       <div className="w-12 h-12 rounded-full bg-indigo-600 flex items-center justify-center">
@@ -429,7 +429,7 @@ export default function SplitScreenHeroLanding({
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-40 h-40 rounded-2xl object-cover mx-auto shadow-lg"
+                      className="w-40 h-40 rounded-2xl object-cover object-top mx-auto shadow-lg"
                     />
                   ) : (
                     <div className="w-40 h-40 rounded-2xl bg-indigo-600 flex items-center justify-center mx-auto shadow-lg">

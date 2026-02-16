@@ -316,7 +316,7 @@ export default function CardFirstMosaicLanding({
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover object-top"
                     />
                   ) : (
                     <span className="text-6xl md:text-7xl font-semibold text-gray-400">
@@ -831,7 +831,7 @@ export default function CardFirstMosaicLanding({
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover object-top"
                     />
                   ) : (
                     <span className="text-2xl font-semibold text-gray-400">

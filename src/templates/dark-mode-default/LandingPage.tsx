@@ -395,7 +395,7 @@ export default function DarkModeDefaultLanding({
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-full h-full object-cover rounded-3xl"
+                      className="w-full h-full object-cover object-top rounded-3xl"
                     />
                   ) : (
                     <span className="text-8xl font-bold text-cyan-400">

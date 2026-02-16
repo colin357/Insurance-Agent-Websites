@@ -182,7 +182,7 @@ export default function ModernGlassmorphismLanding({
                   <img
                     src={agent.photo}
                     alt={agent.name}
-                    className="w-24 h-24 rounded-full object-cover border-2 border-white/30"
+                    className="w-24 h-24 rounded-full object-cover object-top border-2 border-white/30"
                   />
                 ) : (
                   <div className="w-24 h-24 rounded-full bg-white/15 border-2 border-white/30 flex items-center justify-center">
@@ -356,7 +356,7 @@ export default function ModernGlassmorphismLanding({
                 <img
                   src={agent.photo}
                   alt={agent.name}
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-top"
                 />
               ) : (
                 <span className="text-8xl text-white/30 font-bold">

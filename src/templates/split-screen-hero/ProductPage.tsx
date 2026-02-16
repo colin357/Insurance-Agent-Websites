@@ -285,7 +285,7 @@ export default function SplitScreenHeroProduct({
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-10 h-10 rounded-full object-cover"
+                      className="w-10 h-10 rounded-full object-cover object-top"
                     />
                   ) : (
                     <div className="w-10 h-10 rounded-full bg-indigo-600 flex items-center justify-center">

@@ -521,7 +521,7 @@ export default function ClassicTrustLanding({
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover object-top"
                     />
                   ) : (
                     <span className="text-7xl font-serif font-extrabold text-slate-400">

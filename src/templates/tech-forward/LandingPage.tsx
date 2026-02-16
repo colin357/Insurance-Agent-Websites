@@ -620,7 +620,7 @@ export default function TechForwardLanding({
                   <img
                     src={agent.photo}
                     alt={agent.name}
-                    className="w-full max-w-md rounded-2xl object-cover aspect-[4/5] shadow-xl"
+                    className="w-full max-w-md rounded-2xl object-cover object-top aspect-[4/5] shadow-xl"
                   />
                 ) : (
                   <div className="w-full max-w-md rounded-2xl aspect-[4/5] bg-gradient-to-br from-blue-600 to-cyan-500 flex items-center justify-center shadow-xl">

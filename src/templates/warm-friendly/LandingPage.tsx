@@ -155,7 +155,7 @@ export default function WarmFriendlyLanding({ agent }: { agent: AgentConfig }) {
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover object-top"
                     />
                   ) : (
                     <div className="w-full h-full bg-gradient-to-br from-amber-100 to-orange-100 flex items-center justify-center">
@@ -348,7 +348,7 @@ export default function WarmFriendlyLanding({ agent }: { agent: AgentConfig }) {
                       <img
                         src={agent.photo}
                         alt={agent.name}
-                        className="w-full h-full object-cover"
+                        className="w-full h-full object-cover object-top"
                       />
                     ) : (
                       <div className="w-full h-full bg-gradient-to-br from-amber-100 to-orange-100 flex items-center justify-center">

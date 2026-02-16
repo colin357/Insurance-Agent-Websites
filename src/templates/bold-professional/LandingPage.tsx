@@ -317,7 +317,7 @@ export default function BoldProfessionalLanding({ agent }: { agent: AgentConfig 
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-full h-full object-cover rounded-3xl"
+                      className="w-full h-full object-cover object-top rounded-3xl"
                     />
                   ) : (
                     <span className="text-8xl font-extrabold bg-gradient-to-br from-blue-400 to-purple-400 bg-clip-text text-transparent">

@@ -469,7 +469,7 @@ export default function PremiumMinimalLanding({
                 <img
                   src={agent.photo}
                   alt={agent.name}
-                  className="w-72 h-72 md:w-80 md:h-80 object-cover rounded-2xl shadow-sm"
+                  className="w-72 h-72 md:w-80 md:h-80 object-cover object-top rounded-2xl shadow-sm"
                 />
               ) : (
                 <div className="w-72 h-72 md:w-80 md:h-80 rounded-2xl bg-gray-100 flex items-center justify-center">

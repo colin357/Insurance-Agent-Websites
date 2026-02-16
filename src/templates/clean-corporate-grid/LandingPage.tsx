@@ -245,7 +245,7 @@ export default function CleanCorporateGridLanding({
                   <img
                     src={agent.photo}
                     alt={agent.name}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover object-top"
                   />
                 ) : (
                   <span className="text-6xl font-semibold text-gray-300">

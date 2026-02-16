@@ -315,7 +315,7 @@ export default function LocalFriendlyLanding({
                     <img
                       src={agent.photo}
                       alt={agent.name}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover object-top"
                     />
                   ) : (
                     <div className="w-full h-full bg-gradient-to-br from-amber-50 to-orange-100 flex items-center justify-center">
