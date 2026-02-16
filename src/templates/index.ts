@@ -86,3 +86,7 @@ const templates: Record<TemplateName, TemplateComponents> = {
 export function getTemplate(name: TemplateName): TemplateComponents {
   return templates[name];
 }
+
+export function getAllTemplateNames(): TemplateName[] {
+  return Object.keys(templates) as TemplateName[];
+}
