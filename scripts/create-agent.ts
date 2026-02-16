@@ -50,7 +50,12 @@ async function main() {
   const address = await ask("Street address: ");
   const city = await ask("City: ");
   const state = await ask("State (e.g., TX): ");
-  const photo = (await ask("Photo URL (or leave blank): ")) || "";
+  const genderInput = (
+    await ask("Gender for placeholder photo (male/female, or leave blank): ")
+  ).toLowerCase();
+  const gender =
+    genderInput === "male" || genderInput === "female" ? genderInput : "";
+  const photo = (await ask("Photo URL (or leave blank for placeholder): ")) || "";
 
   const config = {
     slug,
@@ -59,6 +64,7 @@ async function main() {
     phone,
     email,
     photo,
+    gender,
     licenseNumber,
     bio,
     location: { city, state, address },

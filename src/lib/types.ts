@@ -19,6 +19,7 @@ export interface AgentConfig {
   phone: string;
   email: string;
   photo: string;
+  gender: "male" | "female" | "";
   licenseNumber: string;
   bio: string;
   location: {

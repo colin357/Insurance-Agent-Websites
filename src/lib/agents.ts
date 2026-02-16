@@ -8,7 +8,18 @@ export function getAgent(slug: string): AgentConfig | null {
   const filePath = path.join(agentsDirectory, `${slug}.json`);
   if (!fs.existsSync(filePath)) return null;
   const raw = fs.readFileSync(filePath, "utf-8");
-  return JSON.parse(raw) as AgentConfig;
+  const agent = JSON.parse(raw) as AgentConfig;
+
+  // Resolve placeholder photo from gender when no custom photo is set
+  if (!agent.photo && agent.gender) {
+    if (agent.gender === "male") {
+      agent.photo = "/Male Insurance Agent.png";
+    } else if (agent.gender === "female") {
+      agent.photo = "/Female Insurance Agent.png";
+    }
+  }
+
+  return agent;
 }
 
 export function getAllAgentSlugs(): string[] {

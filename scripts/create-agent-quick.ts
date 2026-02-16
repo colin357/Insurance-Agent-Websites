@@ -13,7 +13,8 @@
  *     --city "Dallas" \
  *     --state "TX" \
  *     [--slug "john-smith"] \
- *     [--photo "https://example.com/photo.jpg"]
+ *     [--photo "https://example.com/photo.jpg"] \
+ *     [--gender "male"|"female"]
  */
 
 import * as fs from "fs";
@@ -63,6 +64,8 @@ if (!validTemplates.includes(args.template)) {
 }
 
 const slug = args.slug || args.name.toLowerCase().replace(/\s+/g, "-");
+const genderArg = (args.gender || "").toLowerCase();
+const gender = genderArg === "male" || genderArg === "female" ? genderArg : "";
 
 const config = {
   slug,
@@ -71,6 +74,7 @@ const config = {
   phone: args.phone,
   email: args.email,
   photo: args.photo || "",
+  gender,
   licenseNumber: args.license,
   bio: args.bio,
   location: {

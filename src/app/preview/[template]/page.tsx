@@ -9,7 +9,8 @@ const demoAgent: AgentConfig = {
   name: "Jane Cooper",
   phone: "(555) 123-4567",
   email: "jane@cooperinsurance.com",
-  photo: "",
+  photo: "/Female Insurance Agent.png",
+  gender: "female",
   licenseNumber: "CA-1234567",
   bio: "With over 15 years of experience in the insurance industry, I specialize in helping families and businesses find the perfect coverage. My mission is to make insurance simple, affordable, and personalized to your unique needs.",
   location: {
