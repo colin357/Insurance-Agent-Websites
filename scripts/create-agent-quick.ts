@@ -43,7 +43,20 @@ if (missing.length > 0) {
   process.exit(1);
 }
 
-const validTemplates = ["modern-minimalist", "bold-professional", "warm-friendly", "classic-trust"];
+const validTemplates = [
+  "bold-professional",
+  "warm-friendly",
+  "clean-corporate-grid",
+  "modern-glassmorphism",
+  "bold-editorial",
+  "local-friendly",
+  "premium-minimal",
+  "tech-forward",
+  "split-screen-hero",
+  "card-first-mosaic",
+  "dark-mode-default",
+  "classic-trust",
+];
 if (!validTemplates.includes(args.template)) {
   console.error(`Invalid template. Choose from: ${validTemplates.join(", ")}`);
   process.exit(1);

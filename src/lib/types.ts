@@ -1,7 +1,15 @@
 export type TemplateName =
-  | "modern-minimalist"
   | "bold-professional"
   | "warm-friendly"
+  | "clean-corporate-grid"
+  | "modern-glassmorphism"
+  | "bold-editorial"
+  | "local-friendly"
+  | "premium-minimal"
+  | "tech-forward"
+  | "split-screen-hero"
+  | "card-first-mosaic"
+  | "dark-mode-default"
   | "classic-trust";
 
 export interface AgentConfig {

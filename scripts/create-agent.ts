@@ -14,9 +14,17 @@ function ask(question: string): Promise<string> {
 }
 
 const TEMPLATES = [
-  "modern-minimalist",
   "bold-professional",
   "warm-friendly",
+  "clean-corporate-grid",
+  "modern-glassmorphism",
+  "bold-editorial",
+  "local-friendly",
+  "premium-minimal",
+  "tech-forward",
+  "split-screen-hero",
+  "card-first-mosaic",
+  "dark-mode-default",
   "classic-trust",
 ] as const;
 
@@ -32,7 +40,7 @@ async function main() {
 
   console.log("\nAvailable templates:");
   TEMPLATES.forEach((t, i) => console.log(`  ${i + 1}. ${t}`));
-  const templateChoice = await ask("\nTemplate number (1-4): ");
+  const templateChoice = await ask(`\nTemplate number (1-${TEMPLATES.length}): `);
   const template = TEMPLATES[parseInt(templateChoice) - 1] || TEMPLATES[0];
 
   const phone = await ask("Phone number: ");
