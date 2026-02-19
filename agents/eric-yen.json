@@ -1,0 +1,16 @@
+{
+  "slug": "eric-yen",
+  "template": "warm-friendly",
+  "name": "Eric Yen",
+  "phone": "",
+  "email": "eric@stream.claims",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

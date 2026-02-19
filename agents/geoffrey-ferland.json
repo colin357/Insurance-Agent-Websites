@@ -1,0 +1,16 @@
+{
+  "slug": "geoffrey-ferland",
+  "template": "classic-trust",
+  "name": "Geoffrey Ferland",
+  "phone": "",
+  "email": "geoff@hummingbirdins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Asheville",
+    "state": "NC",
+    "address": ""
+  }
+}

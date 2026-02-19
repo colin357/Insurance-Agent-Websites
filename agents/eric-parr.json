@@ -1,0 +1,16 @@
+{
+  "slug": "eric-parr",
+  "template": "classic-trust",
+  "name": "Eric Parr",
+  "phone": "",
+  "email": "eric@parrinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Parr Insurance Agency, Inc was founded by Kenneth Parr, Sr. in 1950. We have grown from what was mainly a personal lines property and casualty agency into a more rounded full service provider since the mid 1980's. More aggressive growth began In 1999 when w...",
+  "location": {
+    "city": "Crestline",
+    "state": "OH",
+    "address": ""
+  }
+}

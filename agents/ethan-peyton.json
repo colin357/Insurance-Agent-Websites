@@ -1,0 +1,16 @@
+{
+  "slug": "ethan-peyton",
+  "template": "split-screen-hero",
+  "name": "Ethan Peyton",
+  "phone": "",
+  "email": "ethan@adjustthis.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I'm a determined businessman and entrepreneur from a small Missouri town. After college, I worked in the real estate field with a local title company. When the owner of the company decided to open an Allstate insurance agency, he chose me as a partner.<br><...",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "address": ""
+  }
+}

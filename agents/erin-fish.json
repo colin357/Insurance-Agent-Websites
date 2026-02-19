@@ -1,0 +1,16 @@
+{
+  "slug": "erin-fish",
+  "template": "modern-glassmorphism",
+  "name": "Erin Fish",
+  "phone": "",
+  "email": "erin@gowanderwell.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I am a founder and operator with 20+ years of insurance leadership experience, building…",
+  "location": {
+    "city": "Portland",
+    "state": "OR",
+    "address": ""
+  }
+}

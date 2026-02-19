@@ -1,0 +1,16 @@
+{
+  "slug": "guy-ezekiel",
+  "template": "bold-editorial",
+  "name": "Guy Ezekiel",
+  "phone": "",
+  "email": "guy.e@myzorro.co",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I'm the co-founder and CEO of Zorro, a startup company aiming to make healthcare more personalized, accessible and affordable. Prior to founding Zorro, I was a Managing Partner at Pitango (Israel's largest venture capital fund) where I focused on investing...",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

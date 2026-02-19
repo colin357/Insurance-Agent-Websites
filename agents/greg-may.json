@@ -1,0 +1,16 @@
+{
+  "slug": "greg-may",
+  "template": "warm-friendly",
+  "name": "Greg May",
+  "phone": "",
+  "email": "greg.may@mayspecialty.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Fair Haven",
+    "state": "NJ",
+    "address": ""
+  }
+}

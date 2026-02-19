@@ -1,0 +1,16 @@
+{
+  "slug": "emily-yuan",
+  "template": "warm-friendly",
+  "name": "Emily Yuan",
+  "phone": "",
+  "email": "emily@corgi.insure",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

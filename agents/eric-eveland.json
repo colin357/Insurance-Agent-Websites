@@ -1,0 +1,16 @@
+{
+  "slug": "eric-eveland",
+  "template": "local-friendly",
+  "name": "Eric Eveland",
+  "phone": "",
+  "email": "eric@evelandgroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "As an advisor or agent, your competition in the business marketplace is fierce. Their multi-faceted approach can make it a challenge for you to recruit and retain quality clients. The Eveland Group's role is to make you one of those competitors.<br><br>Let...",
+  "location": {
+    "city": "Rochester",
+    "state": "NY",
+    "address": ""
+  }
+}

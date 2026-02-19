@@ -1,0 +1,16 @@
+{
+  "slug": "grace-hanson",
+  "template": "tech-forward",
+  "name": "Grace Hanson",
+  "phone": "",
+  "email": "grace.hanson@elysian.is",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "A C-suite Claims executive with a background in US/global personal and commercial P&C startup insurance companies focusing on AI/ML, digital distribution, analytics, and cognitive computing.",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "address": ""
+  }
+}

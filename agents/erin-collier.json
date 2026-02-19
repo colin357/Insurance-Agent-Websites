@@ -1,0 +1,16 @@
+{
+  "slug": "erin-collier",
+  "template": "split-screen-hero",
+  "name": "Erin Collier",
+  "phone": "",
+  "email": "erin@agency-1.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Hershey",
+    "state": "PA",
+    "address": ""
+  }
+}

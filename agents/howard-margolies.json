@@ -1,0 +1,16 @@
+{
+  "slug": "howard-margolies",
+  "template": "local-friendly",
+  "name": "Howard Margolies",
+  "phone": "",
+  "email": "howard@signd.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "A highly experienced Insurance Executive who has demonstrated the ability to lead diverse teams of professionals to new levels of success in a variety of highly competitive industries, challenging markets, and ever changing environments. Strong soft skills...",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

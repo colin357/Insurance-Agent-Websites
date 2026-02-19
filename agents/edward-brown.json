@@ -1,0 +1,16 @@
+{
+  "slug": "edward-brown",
+  "template": "card-first-mosaic",
+  "name": "Edward Brown",
+  "phone": "",
+  "email": "edward@tfigins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "For the past 26 years I have had the privilege of assisting South Florida business owners and families with their commercial and personal property and casualty insurance. Fifteen years ago I formed The Fairway Insurance Group with 1 team member and a goal t...",
+  "location": {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "address": ""
+  }
+}

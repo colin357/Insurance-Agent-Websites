@@ -1,0 +1,16 @@
+{
+  "slug": "emily-evans",
+  "template": "bold-professional",
+  "name": "Emily Evans",
+  "phone": "",
+  "email": "emily@wellthjourney.com",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "You know how kids say “When I grow up, I want to be an astronaut!” Well I never knew what I wanted to be when I grew up and no one ever grows up saying “When I grow up I’m going to be an insurance agent!” Am I right? I started because of a motorcycle accide...",
+  "location": {
+    "city": "Mesa",
+    "state": "AZ",
+    "address": ""
+  }
+}

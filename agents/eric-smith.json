@@ -1,0 +1,16 @@
+{
+  "slug": "eric-smith",
+  "template": "clean-corporate-grid",
+  "name": "Eric Smith",
+  "phone": "",
+  "email": "esmith@medicareadvisorsofalabama.org",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Nineteen years of experience ranging from healthcare sales, management, and business development. Adept at creating sales and marketing strategies, building/managing key client relationships, and developing new sources of revenue.<br><br>Diverse experience...",
+  "location": {
+    "city": "Birmingham",
+    "state": "AL",
+    "address": ""
+  }
+}

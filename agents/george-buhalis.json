@@ -1,0 +1,16 @@
+{
+  "slug": "george-buhalis",
+  "template": "warm-friendly",
+  "name": "George Buhalis",
+  "phone": "",
+  "email": "george.buhalis@solxsys.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I am very excited to launch Solxsys Administrative Solutions, LLC and Solxsys365 Software, providing TPA and Software services for Taft-Hartley Benefit Plans. Throughout my career, I have designed several benefit software systems. Now, my team and I have de...",
+  "location": {
+    "city": "Troy",
+    "state": "MI",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "erika-dreier",
+  "template": "clean-corporate-grid",
+  "name": "Erika Dreier",
+  "phone": "",
+  "email": "edreier@hilltownins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Perkasie",
+    "state": "PA",
+    "address": ""
+  }
+}

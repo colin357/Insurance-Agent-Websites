@@ -1,0 +1,16 @@
+{
+  "slug": "emily-gerber",
+  "template": "split-screen-hero",
+  "name": "Emily Gerber",
+  "phone": "",
+  "email": "emily@gerberinsuranceagency.com",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "A small town girl with lots of vision and determination. <br>I am a third generation business owner of Gerber Insurance.<br>I take pride in what I have achieved in the insurance and small business industry.<br>I find great joy in helping others in their bus...",
+  "location": {
+    "city": "Chillicothe",
+    "state": "OH",
+    "address": ""
+  }
+}

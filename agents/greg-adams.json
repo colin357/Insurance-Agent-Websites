@@ -1,0 +1,16 @@
+{
+  "slug": "greg-adams",
+  "template": "warm-friendly",
+  "name": "Greg Adams",
+  "phone": "",
+  "email": "greg@genesisoneinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Providing insurance products to help protect my clients assets and manage their risks.",
+  "location": {
+    "city": "Clearwater",
+    "state": "FL",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "erik-clark",
+  "template": "tech-forward",
+  "name": "Erik Clark",
+  "phone": "",
+  "email": "eclark@clarkadamson.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Irving",
+    "state": "TX",
+    "address": ""
+  }
+}
