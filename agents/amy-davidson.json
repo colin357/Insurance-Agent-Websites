@@ -1,0 +1,16 @@
+{
+  "slug": "amy-davidson",
+  "template": "warm-friendly",
+  "name": "Amy Davidson",
+  "phone": "",
+  "email": "",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "Skipped",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": ""
+  }
+}

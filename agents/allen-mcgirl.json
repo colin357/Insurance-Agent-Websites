@@ -1,0 +1,16 @@
+{
+  "slug": "allen-mcgirl",
+  "template": "warm-friendly",
+  "name": "Allen Mcgirl",
+  "phone": "",
+  "email": "allen@mcgirlinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I have been helping people with their insurance needs for over 29 years and hope to enjoy this profession for years to come.<br><br>Specialties: I am an expert on Medicare, business and individual health, life, dental, vision, cancer, heart attack, stoke an...",
+  "location": {
+    "city": "Englewood",
+    "state": "CO",
+    "address": ""
+  }
+}

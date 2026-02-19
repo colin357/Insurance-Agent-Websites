@@ -1,0 +1,16 @@
+{
+  "slug": "ben-coakley",
+  "template": "warm-friendly",
+  "name": "Ben Coakley",
+  "phone": "",
+  "email": "ben@waypointus.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "At the helm of The Waypoint Company's business development for over two decades, our team has cultivated a robust ecosystem serving the medical industry, guided by a mission to generate meaningful impact. With specialized expertise, we have transitioned fro...",
+  "location": {
+    "city": "Summerville",
+    "state": "SC",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "betsy-brooks",
+  "template": "warm-friendly",
+  "name": "Betsy Brooks",
+  "phone": "",
+  "email": "betsyb@rbinsuranceservice.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Robesonia",
+    "state": "PA",
+    "address": ""
+  }
+}

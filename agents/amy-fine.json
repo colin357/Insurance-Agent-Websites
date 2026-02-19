@@ -1,0 +1,16 @@
+{
+  "slug": "amy-fine",
+  "template": "warm-friendly",
+  "name": "Amy Fine",
+  "phone": "",
+  "email": "",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "Skipped",
+  "location": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "address": ""
+  }
+}

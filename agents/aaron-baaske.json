@@ -1,0 +1,16 @@
+{
+  "slug": "aaron-baaske",
+  "template": "warm-friendly",
+  "name": "Aaron Baaske",
+  "phone": "",
+  "email": "",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Skipped",
+  "location": {
+    "city": "Amherst",
+    "state": "OH",
+    "address": ""
+  }
+}

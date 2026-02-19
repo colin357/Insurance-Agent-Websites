@@ -1,0 +1,16 @@
+{
+  "slug": "alexander-hughes",
+  "template": "warm-friendly",
+  "name": "Alexander Hughes",
+  "phone": "",
+  "email": "alex@dolphinai.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Experience in investing, product management, operating in startups, coding, and finance. Former founder of an AI company. Launched and built several products as a founder, developer, or PM. I like to learn about new things and to talk to interesting people.",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

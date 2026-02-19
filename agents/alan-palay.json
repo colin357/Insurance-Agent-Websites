@@ -1,0 +1,16 @@
+{
+  "slug": "alan-palay",
+  "template": "warm-friendly",
+  "name": "Alan Palay",
+  "phone": "",
+  "email": "",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Skipped",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": ""
+  }
+}

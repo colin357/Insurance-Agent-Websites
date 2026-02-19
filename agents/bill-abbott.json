@@ -1,0 +1,16 @@
+{
+  "slug": "bill-abbott",
+  "template": "warm-friendly",
+  "name": "Bill Abbott",
+  "phone": "",
+  "email": "insureme@abbottins.net",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Experience and Qualifications<br>Insurance Agency owner since 1985<br> - business management<br> - business planning<br> - involved in many insurance agency acquisitions<br> - NJ Licensed P&C,Life,Title<br>Real Estate <br> - Property Management<br> - experi...",
+  "location": {
+    "city": "Lyndhurst",
+    "state": "NJ",
+    "address": ""
+  }
+}

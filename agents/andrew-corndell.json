@@ -1,0 +1,16 @@
+{
+  "slug": "andrew-corndell",
+  "template": "warm-friendly",
+  "name": "Andrew Corndell",
+  "phone": "",
+  "email": "andrew@corndellinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "At our truly independent insurance agency, we take pride in supporting families with their personal and business insurance needs. Our mission is to provide tailored coverage that offers peace of mind and protection for what matters most. With a commitment t...",
+  "location": {
+    "city": "Norton Center",
+    "state": "MA",
+    "address": ""
+  }
+}

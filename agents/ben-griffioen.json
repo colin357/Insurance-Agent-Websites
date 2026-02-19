@@ -1,0 +1,16 @@
+{
+  "slug": "ben-griffioen",
+  "template": "warm-friendly",
+  "name": "Ben Griffioen",
+  "phone": "",
+  "email": "ben@fireflyagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "By partnering with Firefly, agents can:<br>• Have the power of a huge agency<br>• Brand their own agency<br>• Work from home or from a brick and mortar location<br>• Reduce stress by eliminating carrier production requirements<br>• Own their book from day 1...",
+  "location": {
+    "city": "Vinings",
+    "state": "GA",
+    "address": ""
+  }
+}

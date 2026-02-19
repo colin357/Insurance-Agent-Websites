@@ -1,0 +1,16 @@
+{
+  "slug": "aaron-steffey",
+  "template": "warm-friendly",
+  "name": "Aaron Steffey",
+  "phone": "",
+  "email": "aaron@steffeyins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I grew up in an insurance agency filing files in a cabinet, typing up envelopes on a typewriter, and using a hole-punch to create renewal binders. For better or worse, insurance is in my blood. My grandfather owned a steakhouse which is much cooler but I se...",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": ""
+  }
+}
