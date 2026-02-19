@@ -1,0 +1,16 @@
+{
+  "slug": "brooks-speake",
+  "template": "modern-glassmorphism",
+  "name": "Brooks Speake",
+  "phone": "",
+  "email": "brooks@speakeinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Focused & Driven",
+  "location": {
+    "city": "Norco",
+    "state": "CA",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "bruce-sams",
+  "template": "warm-friendly",
+  "name": "Bruce Sams",
+  "phone": "",
+  "email": "bsams@championins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "My passion is leading a team of insurance professionals who excel at helping companies and individuals identify, prioritize, and implement strategies to control risk and save money on insurance. Problem solving and superior service are hallmarks of our agen...",
+  "location": {
+    "city": "Dallas",
+    "state": "TX",
+    "address": ""
+  }
+}

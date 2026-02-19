@@ -1,0 +1,16 @@
+{
+  "slug": "brad-vaccaro",
+  "template": "clean-corporate-grid",
+  "name": "Brad Vaccaro",
+  "phone": "",
+  "email": "bvaccaro@benbase.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

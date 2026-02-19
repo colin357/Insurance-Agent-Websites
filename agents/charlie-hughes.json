@@ -1,0 +1,16 @@
+{
+  "slug": "charlie-hughes",
+  "template": "split-screen-hero",
+  "name": "Charlie Hughes",
+  "phone": "",
+  "email": "c.hughes@contractornerd.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I help vertical SaaS companies build sustainable growth engines and run ContractorNerd, a tech-enabled insurance brokerage revolutionizing coverage for contractors. Growth Consulting (Orca Ventures): Since 2023, I've advised B2B software companies on establ...",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

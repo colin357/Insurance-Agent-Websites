@@ -1,0 +1,16 @@
+{
+  "slug": "brandon-weber",
+  "template": "bold-professional",
+  "name": "Brandon Weber",
+  "phone": "",
+  "email": "brandon@navabenefits.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I'm the co-founder and CEO at Nava. We're on a mission to provide access to better healthcare at lower prices for all Americans by modernizing the benefits brokerage industry. We've partnered on this with Thrive Capital, the investors behind transformative...",
+  "location": {
+    "city": "Park City",
+    "state": "UT",
+    "address": ""
+  }
+}

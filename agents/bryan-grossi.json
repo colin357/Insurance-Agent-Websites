@@ -1,0 +1,16 @@
+{
+  "slug": "bryan-grossi",
+  "template": "card-first-mosaic",
+  "name": "Bryan Grossi",
+  "phone": "",
+  "email": "bryan@fortifiedinsurancegroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "There is nothing worse than facing constantly rising Insurance Costs... and feeling you can do little about it.<br><br>You’re losing sleep worrying about how to afford a Risk Management and Insurance Plan that will give you a competitive advantage... while...",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "address": ""
+  }
+}

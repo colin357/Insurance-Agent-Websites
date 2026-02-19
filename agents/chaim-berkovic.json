@@ -1,0 +1,16 @@
+{
+  "slug": "chaim-berkovic",
+  "template": "card-first-mosaic",
+  "name": "Chaim Berkovic",
+  "phone": "",
+  "email": "chaim@skyscraperinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "A visionary in the insurance arena, Chaim Berkovic offers a blend of management expertise and pure dedication to insurance excellence. With deep industry insight, he has honed his abilities to identify opportunities in the insurance marketplace to create pr...",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

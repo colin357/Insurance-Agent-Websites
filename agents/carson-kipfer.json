@@ -1,0 +1,16 @@
+{
+  "slug": "carson-kipfer",
+  "template": "clean-corporate-grid",
+  "name": "Carson Kipfer",
+  "phone": "",
+  "email": "ck@monoline.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Hayward",
+    "state": "WI",
+    "address": ""
+  }
+}

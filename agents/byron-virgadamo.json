@@ -1,0 +1,16 @@
+{
+  "slug": "byron-virgadamo",
+  "template": "classic-trust",
+  "name": "Byron Virgadamo",
+  "phone": "",
+  "email": "bvirgadamo@fig-llc.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "New Orleans",
+    "state": "LA",
+    "address": ""
+  }
+}

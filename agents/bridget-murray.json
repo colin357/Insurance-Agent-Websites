@@ -1,0 +1,16 @@
+{
+  "slug": "bridget-murray",
+  "template": "modern-glassmorphism",
+  "name": "Bridget Murray",
+  "phone": "",
+  "email": "bmurray@murraygrp.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Bridget is an owner and licensed insurance agent at The Murray Group Insurance Services, a family owned and operated insurance agency in Albany, NY. The Murray Group works with individuals, families and businesses to protect their assets and create a predic...",
+  "location": {
+    "city": "Albany",
+    "state": "NY",
+    "address": ""
+  }
+}

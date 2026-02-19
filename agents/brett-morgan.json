@@ -1,0 +1,16 @@
+{
+  "slug": "brett-morgan",
+  "template": "local-friendly",
+  "name": "Brett Morgan",
+  "phone": "",
+  "email": "brett@carolinainsuranceguy.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Your Award-Winning trusted advisor for Auto, Home, Business and Life Insurance.<br><br>For 25 years I have been helping individuals and businesses achieve more. I simplify the insurance process to make it easier for my clients to ensure their property at th...",
+  "location": {
+    "city": "Charlotte",
+    "state": "NC",
+    "address": ""
+  }
+}

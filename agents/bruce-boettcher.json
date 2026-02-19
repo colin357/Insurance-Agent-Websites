@@ -1,0 +1,16 @@
+{
+  "slug": "bruce-boettcher",
+  "template": "split-screen-hero",
+  "name": "Bruce Boettcher",
+  "phone": "",
+  "email": "bruce@inschoices.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Hi, My name is Bruce Boettcher (pronounced Bet Cher)and I have been self-employed since 1998 and currently own an independent insurance agency in the Chicagoland area for over 26 years and are licensed in 29 states. We are pioneers in the insurance industry...",
+  "location": {
+    "city": "Woodridge",
+    "state": "IL",
+    "address": ""
+  }
+}

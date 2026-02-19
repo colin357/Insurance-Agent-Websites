@@ -1,0 +1,16 @@
+{
+  "slug": "bryan-comeaux",
+  "template": "clean-corporate-grid",
+  "name": "Bryan Comeaux",
+  "phone": "",
+  "email": "bryan@scentralinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "You’re probably familiar with this: You need to hire employees. You put out an ad on…",
+  "location": {
+    "city": "Lafayette",
+    "state": "LA",
+    "address": ""
+  }
+}

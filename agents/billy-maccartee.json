@@ -1,0 +1,16 @@
+{
+  "slug": "billy-maccartee",
+  "template": "bold-editorial",
+  "name": "Billy Maccartee",
+  "phone": "",
+  "email": "bmaccartee@benecurv.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "We provide insurance and employee benefits to over 500 businesses in nationwide. Our consultants tailor solutions to the unique needs of each company, organization, and individual. Our long-term cost containment strategies provide optimum value for business...",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "address": ""
+  }
+}

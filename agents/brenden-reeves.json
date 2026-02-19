@@ -1,0 +1,16 @@
+{
+  "slug": "brenden-reeves",
+  "template": "modern-glassmorphism",
+  "name": "Brenden Reeves",
+  "phone": "",
+  "email": "brenden@corgi.insure",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "ML for top enterprises (confidential):<br>- a top 5 private cloud company<br>- two top 10 global life sciences companies<br>- one fortune 500 energy company<br>- one global 500 pharmaceuticals company<br>- two global 2000 companies<br><br>I like building th...",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

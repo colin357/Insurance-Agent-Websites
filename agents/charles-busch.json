@@ -1,0 +1,16 @@
+{
+  "slug": "charles-busch",
+  "template": "tech-forward",
+  "name": "Charles Busch",
+  "phone": "",
+  "email": "charles@eiswi.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "- Developed new client relationships in a business to business environment.<br>- Serviced current customer’s insurance needs.<br>- Analyze and evaluate clients current insurance policies to assist them in making educated insurance decisions<br>- Access curr...",
+  "location": {
+    "city": "Stoughton",
+    "state": "WI",
+    "address": ""
+  }
+}

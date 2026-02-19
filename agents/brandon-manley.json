@@ -1,0 +1,16 @@
+{
+  "slug": "brandon-manley",
+  "template": "clean-corporate-grid",
+  "name": "Brandon Manley",
+  "phone": "",
+  "email": "brandon@amgfinancialservices.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "brett-cunningham",
+  "template": "local-friendly",
+  "name": "Brett Cunningham",
+  "phone": "",
+  "email": "brett@cleverbenefits.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Clever Health just makes sense. Easier, faster, better for the patient, and much more affordable. Waiting hours just for a phone call from a provider? Archaic. overpriced prescriptions? Against our religion. Suffering with anxiety and depression alone? Neve...",
+  "location": {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "address": ""
+  }
+}

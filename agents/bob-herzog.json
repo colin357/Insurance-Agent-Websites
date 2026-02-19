@@ -1,0 +1,16 @@
+{
+  "slug": "bob-herzog",
+  "template": "local-friendly",
+  "name": "Bob Herzog",
+  "phone": "",
+  "email": "bob.herzog@herzogins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "PERSONAL LINES: Our personal lines department services policies including<br><br> - Auto (we also accept motor homes and recreational vehicles)<br> - Home<br> - Umbrella<br>Need an Earthquake Policy to protect the equity in your home?<br>Need a flood policy...",
+  "location": {
+    "city": "Pleasanton",
+    "state": "CA",
+    "address": ""
+  }
+}

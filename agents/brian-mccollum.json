@@ -1,0 +1,16 @@
+{
+  "slug": "brian-mccollum",
+  "template": "tech-forward",
+  "name": "Brian Mccollum",
+  "phone": "",
+  "email": "brian@mccolluminsuranceagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "The McCollum Insurance Agency, established in 2002, has locations in Philadelphia (Manayunk) and Delaware County (Edgmont- Newtown Square) Our Agency is passionate about being a leader in the insurance industry, and we welcome the opportunity to quote your...",
+  "location": {
+    "city": "Broomall",
+    "state": "PA",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "brad-tonoff",
+  "template": "tech-forward",
+  "name": "Brad Tonoff",
+  "phone": "",
+  "email": "brad@bradtonoff.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Santa Monica",
+    "state": "CA",
+    "address": ""
+  }
+}

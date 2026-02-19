@@ -1,0 +1,16 @@
+{
+  "slug": "buzzy-cohn",
+  "template": "bold-professional",
+  "name": "Buzzy Cohn",
+  "phone": "",
+  "email": "buzzy@bikeinsure.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Buzzy Cohn is the Founder and CEO of BikeInsure, an InsureTech company that simplifies bike insurance by protecting new or used bicycles and eBikes from riding, transit, and theft risks. Bicycle and e-bike owners in the United States should get separate bik...",
+  "location": {
+    "city": "Washington D.C.",
+    "state": "DC",
+    "address": ""
+  }
+}

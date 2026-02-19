@@ -1,0 +1,16 @@
+{
+  "slug": "bill-whitely",
+  "template": "clean-corporate-grid",
+  "name": "Bill Whitely",
+  "phone": "",
+  "email": "bill.whitely@proximal.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Falcon Heights",
+    "state": "MN",
+    "address": ""
+  }
+}

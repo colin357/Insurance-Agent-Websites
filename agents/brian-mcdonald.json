@@ -1,0 +1,16 @@
+{
+  "slug": "brian-mcdonald",
+  "template": "warm-friendly",
+  "name": "Brian Mcdonald",
+  "phone": "",
+  "email": "brian@eiobx.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "30+ years in the HVAC industry.<br><br>Specialties: Geothermal & Whole House Diagnostics for comfort and energy savings.",
+  "location": {
+    "city": "Kill Devil Hills",
+    "state": "NC",
+    "address": ""
+  }
+}

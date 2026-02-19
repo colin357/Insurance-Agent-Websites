@@ -1,0 +1,16 @@
+{
+  "slug": "christian-galt",
+  "template": "warm-friendly",
+  "name": "Christian Galt",
+  "phone": "",
+  "email": "chris@galtinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Our mission at Galt Insurance Group is to provide peace of mind through insurance products that will best protect your most important assets. We accomplish this by working exclusively with top tier insurance companies in order to match clients with carriers...",
+  "location": {
+    "city": "Naples",
+    "state": "FL",
+    "address": ""
+  }
+}
