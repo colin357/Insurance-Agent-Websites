@@ -1,0 +1,16 @@
+{
+  "slug": "cristy-gupton",
+  "template": "card-first-mosaic",
+  "name": "Cristy Gupton",
+  "phone": "",
+  "email": "cristy@custombenefits.work",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Specialties: Employee Benefits Consultant",
+  "location": {
+    "city": "Morganton",
+    "state": "NC",
+    "address": ""
+  }
+}

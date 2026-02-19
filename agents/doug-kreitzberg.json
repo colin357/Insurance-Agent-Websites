@@ -1,0 +1,16 @@
+{
+  "slug": "doug-kreitzberg",
+  "template": "local-friendly",
+  "name": "Doug Kreitzberg",
+  "phone": "",
+  "email": "doug.kreitzberg@seedpodcyber.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "At SeedPod Cyber, we integrate security solutions with cyber insurance by partnering with select Managed Service Providers to help businesses mitigate, transfer and transform cyber risk into cyber value. At Designed Privacy we provide cybersecurity and data...",
+  "location": {
+    "city": "Princeton",
+    "state": "NJ",
+    "address": ""
+  }
+}

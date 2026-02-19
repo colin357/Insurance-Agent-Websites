@@ -1,0 +1,16 @@
+{
+  "slug": "david-bunn",
+  "template": "classic-trust",
+  "name": "David Bunn",
+  "phone": "",
+  "email": "david@bunnins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": ""
+  }
+}

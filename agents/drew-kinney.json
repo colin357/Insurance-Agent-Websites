@@ -1,0 +1,16 @@
+{
+  "slug": "drew-kinney",
+  "template": "tech-forward",
+  "name": "Drew Kinney",
+  "phone": "",
+  "email": "drew@kinneyins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I operate a family owned independent insurance agency with multiple locations across Vermont. We strive to provide our clients with excellent service built on the honesty and trust we have developed operating in the insurance industry for over 40 years. I w...",
+  "location": {
+    "city": "South Burlington",
+    "state": "VT",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "clifton-stubbs",
+  "template": "local-friendly",
+  "name": "Clifton Stubbs",
+  "phone": "",
+  "email": "cliff@rhythminsuranceagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Accomplished Professional with a proven ability to recruit, train, and motivate sales professionals in the Insurance Industry. Specialties: Senior healthcare and ancillary products including Medicare Supplements, Medicare Advantage, Annuities, Long Term Car...",
+  "location": {
+    "city": "Dallas",
+    "state": "TX",
+    "address": ""
+  }
+}

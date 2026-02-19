@@ -1,0 +1,16 @@
+{
+  "slug": "doug-r",
+  "template": "clean-corporate-grid",
+  "name": "Doug R.",
+  "phone": "",
+  "email": "doug@richardsfinancialservices.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Doug Richards, CFP® has a passion for helping others and becoming a trusted financial consultant is a fulfillment of that. Believing in a holistic approach, he works with competency and integrity to successfully navigate clients' financial management goals....",
+  "location": {
+    "city": "Santa Monica",
+    "state": "CA",
+    "address": ""
+  }
+}

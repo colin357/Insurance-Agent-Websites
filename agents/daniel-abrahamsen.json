@@ -1,0 +1,16 @@
+{
+  "slug": "daniel-abrahamsen",
+  "template": "card-first-mosaic",
+  "name": "Daniel Abrahamsen",
+  "phone": "",
+  "email": "dan@coverwhale.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

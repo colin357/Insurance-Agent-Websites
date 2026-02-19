@@ -1,0 +1,16 @@
+{
+  "slug": "danny-ford",
+  "template": "card-first-mosaic",
+  "name": "Danny Ford",
+  "phone": "",
+  "email": "danny@fordinsurancesolutions.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I am a dedicated Employee Benefits Consultant with over 12 years of experience in the industry. My primary focus is providing solutions to my clients while helping them navigate through this ever changing industry. I pride myself on my availability to my cl...",
+  "location": {
+    "city": "Westlake Village",
+    "state": "CA",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "doug-groves",
+  "template": "clean-corporate-grid",
+  "name": "Doug Groves",
+  "phone": "",
+  "email": "doug@pigbcs.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Commercial Property and Casualty Insurance. Helping associations attract new members thru insurance programs for members is our specialty. Providing member benefits is our specialty. Helping groups attract and maintain members is our focus. Click on link be...",
+  "location": {
+    "city": "College Station",
+    "state": "TX",
+    "address": ""
+  }
+}

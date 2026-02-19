@@ -1,0 +1,16 @@
+{
+  "slug": "david-snowberger",
+  "template": "card-first-mosaic",
+  "name": "David Snowberger",
+  "phone": "",
+  "email": "dave@todaysactuary.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Specialties: Actuarial recruiting",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "TX",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "david-starns",
+  "template": "warm-friendly",
+  "name": "David Starns",
+  "phone": "",
+  "email": "davidstarns@allstate.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Working in insurance is my opportunity to help others protect the things they value and love most. I became an Allstate Agency Owner because I knew insurance was something everyone needed, and I wanted to be the one to provide it to them. <br><br>While insu...",
+  "location": {
+    "city": "Prairie Village",
+    "state": "KS",
+    "address": ""
+  }
+}

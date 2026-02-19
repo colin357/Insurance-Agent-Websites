@@ -1,0 +1,16 @@
+{
+  "slug": "david-hess",
+  "template": "warm-friendly",
+  "name": "David Hess",
+  "phone": "",
+  "email": "david.hess@hess-insurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Hess Insurance is the premier provider of comprehensive insurance solutions, dedicated to safeguarding the financial well-being of individuals, families, and businesses across North Carolina. With a commitment to excellence and personalized service, we spec...",
+  "location": {
+    "city": "Cary",
+    "state": "NC",
+    "address": ""
+  }
+}

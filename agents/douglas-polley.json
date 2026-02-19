@@ -1,0 +1,16 @@
+{
+  "slug": "douglas-polley",
+  "template": "clean-corporate-grid",
+  "name": "Douglas Polley",
+  "phone": "",
+  "email": "dpolley@unionbayrisk.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Currently Chairman of a rapidly growing property and casualty insurance brokerage firm. Previously, 25+ years experience in asset management, starting in the Principal Investment Area at Goldman Sachs, then as partner and Portfolio Manager at $3+bn hedge fu...",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

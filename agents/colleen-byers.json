@@ -1,0 +1,16 @@
+{
+  "slug": "colleen-byers",
+  "template": "bold-professional",
+  "name": "Colleen Byers",
+  "phone": "",
+  "email": "cbyers@pbcins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Pacific Benefit Consultants, Inc. is an independent insurance agency in Eugene, Oregon specializing in the placement of coverage for all your insurance needs. We are affiliated with the leading companies in the marketplace. This allows us to match a company...",
+  "location": {
+    "city": "Eugene",
+    "state": "OR",
+    "address": ""
+  }
+}

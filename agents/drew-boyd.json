@@ -1,0 +1,16 @@
+{
+  "slug": "drew-boyd",
+  "template": "classic-trust",
+  "name": "Drew Boyd",
+  "phone": "",
+  "email": "drew@jeffersonmaxey.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I am NOT an insurance agent/broker and do not sell insurance. I founded Jefferson Maxey Consulting because business owners need a risk manager who is not paid by insurance companies to watch their back. I find the gaps in their insurance coverage and overch...",
+  "location": {
+    "city": "Gainesville",
+    "state": "FL",
+    "address": ""
+  }
+}

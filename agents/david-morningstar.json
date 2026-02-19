@@ -1,0 +1,16 @@
+{
+  "slug": "david-morningstar",
+  "template": "tech-forward",
+  "name": "David Morningstar",
+  "phone": "",
+  "email": "dave@employerassurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "David Morningstar built the largest, most diverse, and fastest growing independent voluntary benefit sales team in the history of the worksite industry. In addition to all of his industry shattering production and recruiting records, David excels at finding...",
+  "location": {
+    "city": "Washington D.C.",
+    "state": "DC",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "colby-denton",
+  "template": "clean-corporate-grid",
+  "name": "Colby Denton",
+  "phone": "",
+  "email": "colby@impactbeneficial.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "address": ""
+  }
+}

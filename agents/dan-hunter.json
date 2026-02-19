@@ -1,0 +1,16 @@
+{
+  "slug": "dan-hunter",
+  "template": "bold-professional",
+  "name": "Dan Hunter",
+  "phone": "",
+  "email": "danh@smirkhealth.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Smirk Health is on a mission to transform insurance—starting with dental—by strengthening the provider-payer relationship and breaking down barriers in underserved markets. Our scalable, digital-first solution is designed for mutual success, ensuring everyo...",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "address": ""
+  }
+}

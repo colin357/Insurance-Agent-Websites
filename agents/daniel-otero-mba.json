@@ -1,0 +1,16 @@
+{
+  "slug": "daniel-otero-mba",
+  "template": "local-friendly",
+  "name": "Daniel Otero, Mba",
+  "phone": "",
+  "email": "daniel@gbvinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Business leader and entrepreneur, with 12+ years of experience across tech, consulting…",
+  "location": {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "address": ""
+  }
+}

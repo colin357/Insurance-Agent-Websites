@@ -1,0 +1,16 @@
+{
+  "slug": "dan-preston",
+  "template": "classic-trust",
+  "name": "Dan Preston",
+  "phone": "",
+  "email": "dan@standinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

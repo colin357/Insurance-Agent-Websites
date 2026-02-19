@@ -1,0 +1,16 @@
+{
+  "slug": "dan-karr",
+  "template": "card-first-mosaic",
+  "name": "Dan Karr",
+  "phone": "",
+  "email": "dan.karr@valchoice.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Experienced executive with a track record for driving rapid and profitable revenue growth. Functional roles have included engineering, marketing, sales and CEO with emphasis on turning complex technologies into high-volume products. Operating experience spa...",
+  "location": {
+    "city": "Bedford",
+    "state": "NH",
+    "address": ""
+  }
+}
