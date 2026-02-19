@@ -1,0 +1,16 @@
+{
+  "slug": "alan-wesen",
+  "template": "tech-forward",
+  "name": "Alan Wesen",
+  "phone": "",
+  "email": "awesen@ohioarkinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "At Ohio Ark Insurance, my focus is on cultivating robust customer relationships and driving strategic growth. With a solid foundation in Business Process Improvement, my approach to business development is shaped by my commitment to delivering exceptional v...",
+  "location": {
+    "city": "Parma Heights",
+    "state": "OH",
+    "address": ""
+  }
+}

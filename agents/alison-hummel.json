@@ -1,0 +1,16 @@
+{
+  "slug": "alison-hummel",
+  "template": "local-friendly",
+  "name": "Alison Hummel",
+  "phone": "",
+  "email": "alison@aktivatedhealth.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": ""
+  }
+}

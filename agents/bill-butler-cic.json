@@ -1,0 +1,16 @@
+{
+  "slug": "bill-butler-cic",
+  "template": "classic-trust",
+  "name": "Bill Butler Cic",
+  "phone": "",
+  "email": "bill@butlervetinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Specialties: Bill Butler is an insurance agent with Butler & Associates Insurance Agency, licensed in Property, Casualty, Accident & Health and Life Insurance. He started his insurance career in 2004 after 13 years of service with the U.S. Army and Minnesot...",
+  "location": {
+    "city": "Saint Paul",
+    "state": "MN",
+    "address": ""
+  }
+}

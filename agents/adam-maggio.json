@@ -1,0 +1,16 @@
+{
+  "slug": "adam-maggio",
+  "template": "card-first-mosaic",
+  "name": "Adam Maggio",
+  "phone": "",
+  "email": "adam@enrollmynt.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "With over 20 years of experience in the employee benefits industry, Adam Maggio is the CEO and founder of Enrollmynt, a leading benefit consulting firm that helps employers, brokers, and private equity firms optimize their benefit communication and enrollme...",
+  "location": {
+    "city": "Boca Del Mar",
+    "state": "FL",
+    "address": ""
+  }
+}

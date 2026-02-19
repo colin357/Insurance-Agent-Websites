@@ -1,0 +1,16 @@
+{
+  "slug": "anna-petropoulos",
+  "template": "bold-professional",
+  "name": "Anna Petropoulos",
+  "phone": "",
+  "email": "anna@apetropinc.com",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "Apetrop USA offers a range of services to insurers and reinsurers who have an interest in resolving issues related to Insurance and Reinsurance; Run-off Liability Transfer, Captive Insurance issues, Reinsurance Audits, and Commutation support.",
+  "location": {
+    "city": "Brattleboro",
+    "state": "VT",
+    "address": ""
+  }
+}

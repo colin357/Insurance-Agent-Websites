@@ -1,0 +1,16 @@
+{
+  "slug": "alex-teller",
+  "template": "bold-editorial",
+  "name": "Alex Teller",
+  "phone": "",
+  "email": "alex.teller@gibraltarcg.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

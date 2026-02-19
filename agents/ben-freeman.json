@@ -1,0 +1,16 @@
+{
+  "slug": "ben-freeman",
+  "template": "local-friendly",
+  "name": "Ben Freeman",
+  "phone": "",
+  "email": "ben.freeman@risesoninsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "address": ""
+  }
+}
