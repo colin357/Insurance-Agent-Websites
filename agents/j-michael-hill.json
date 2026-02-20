@@ -1,0 +1,16 @@
+{
+  "slug": "j-michael-hill",
+  "template": "split-screen-hero",
+  "name": "J. Michael Hill",
+  "phone": "",
+  "email": "jhill@johnhillagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Our agency specializes in custom tailoring personal and commercial insurance packages. We are an independent agency, enabling us to choose the right coverage at the best price from an unlimited number of insurance carriers.",
+  "location": {
+    "city": "Bayville",
+    "state": "NJ",
+    "address": ""
+  }
+}

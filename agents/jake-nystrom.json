@@ -1,0 +1,16 @@
+{
+  "slug": "jake-nystrom",
+  "template": "local-friendly",
+  "name": "Jake Nystrom",
+  "phone": "",
+  "email": "jake@farnorthinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "TL;DWTR - I am an insurance adviser that writes property insurance in North Dakota & Minnesota while specializing in negotiation strategies for anything tech, SaaS, financial institutions, and manufacturing. <br><br>I know, what a mix right? How I got there...",
+  "location": {
+    "city": "Fargo",
+    "state": "ND",
+    "address": ""
+  }
+}

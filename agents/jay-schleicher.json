@@ -1,0 +1,16 @@
+{
+  "slug": "jay-schleicher",
+  "template": "split-screen-hero",
+  "name": "Jay Schleicher",
+  "phone": "",
+  "email": "jays@bluejayagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "jamie-mcvay",
+  "template": "split-screen-hero",
+  "name": "Jamie Mcvay",
+  "phone": "",
+  "email": "jmcvay@fleetguardusa.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I’m an insurance professional and entrepreneur with a passion for helping truckers, fleets, and business owners protect what matters most. After selling my previous Allstate agency, I launched FleetGuard USA to focus exclusively on the needs of the trucking...",
+  "location": {
+    "city": "Piedmont",
+    "state": "SC",
+    "address": ""
+  }
+}

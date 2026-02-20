@@ -1,0 +1,16 @@
+{
+  "slug": "jeffrey-randal",
+  "template": "bold-professional",
+  "name": "Jeffrey Randal",
+  "phone": "",
+  "email": "jeff@jrandalinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "As the owner of J. Randal Insurance Agency, I provide risk management and financial planning solutions to individuals and businesses. I have over 10 years of experience in the insurance industry, holding multiple licenses and certifications in property, cas...",
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "address": ""
+  }
+}

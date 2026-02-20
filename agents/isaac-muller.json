@@ -1,0 +1,16 @@
+{
+  "slug": "isaac-muller",
+  "template": "local-friendly",
+  "name": "Isaac Muller",
+  "phone": "",
+  "email": "isaac@highviewins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "“If it’s too good to be true, it probably isn’t or is?”<br><br>Agreed!…",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

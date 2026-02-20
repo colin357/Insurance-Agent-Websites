@@ -1,0 +1,16 @@
+{
+  "slug": "joaquin-davila",
+  "template": "classic-trust",
+  "name": "Joaquin Davila",
+  "phone": "",
+  "email": "joaquin@mypremierplans.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I have been in the insurance business for 20+ years.",
+  "location": {
+    "city": "McAllen",
+    "state": "TX",
+    "address": ""
+  }
+}

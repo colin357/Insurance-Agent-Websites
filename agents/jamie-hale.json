@@ -1,0 +1,16 @@
+{
+  "slug": "jamie-hale",
+  "template": "classic-trust",
+  "name": "Jamie Hale",
+  "phone": "",
+  "email": "jamie@lddr.io",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I love to build teams and businesses. I'm an entrepreneur and an investor. Great businesses are dependent on great people. I truly enjoy working with similarly minded people who relentlessly pursue excellence.",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

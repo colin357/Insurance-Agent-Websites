@@ -1,0 +1,16 @@
+{
+  "slug": "jason-schupp",
+  "template": "clean-corporate-grid",
+  "name": "Jason Schupp",
+  "phone": "",
+  "email": "jason.schupp@betterins.org",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Centers for Better Insurance (CBI) www.betterins.org is an independent organization focused on supporting the insurance industry to optimize the value it delivers to all stakeholders (including policyholders, employees and society at large). CBI does so by...",
+  "location": {
+    "city": "Frederick",
+    "state": "MD",
+    "address": ""
+  }
+}

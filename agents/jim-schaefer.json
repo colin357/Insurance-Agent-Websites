@@ -1,0 +1,16 @@
+{
+  "slug": "jim-schaefer",
+  "template": "clean-corporate-grid",
+  "name": "Jim Schaefer",
+  "phone": "",
+  "email": "jim@qualitytitle.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": ""
+  }
+}

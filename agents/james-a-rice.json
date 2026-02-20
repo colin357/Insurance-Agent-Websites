@@ -1,0 +1,16 @@
+{
+  "slug": "james-a-rice",
+  "template": "clean-corporate-grid",
+  "name": "James A. Rice",
+  "phone": "",
+  "email": "james.rice@rethoughtinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I am an industry veteran who delivers complex solutions to the insurance and financial markets and bring over 20 years of experience to the insurance technology, predictive analytics, business intelligence, information services and BPM sectors. I offer exte...",
+  "location": {
+    "city": "Franklin",
+    "state": "MI",
+    "address": ""
+  }
+}

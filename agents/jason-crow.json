@@ -1,0 +1,16 @@
+{
+  "slug": "jason-crow",
+  "template": "card-first-mosaic",
+  "name": "Jason Crow",
+  "phone": "",
+  "email": "jason@meetguideful.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I’m an entrepreneurial leader with 13+ years of experience at the intersection of law, healthcare, and advocacy, designing systems that help injured workers navigate the complex workers’ compensation ecosystem.<br><br>As Founder of Juvo and Co-Founder of Gu...",
+  "location": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "jared-tolleson",
+  "template": "card-first-mosaic",
+  "name": "Jared Tolleson",
+  "phone": "",
+  "email": "jared@tollesoninsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Cockrell Hill",
+    "state": "TX",
+    "address": ""
+  }
+}

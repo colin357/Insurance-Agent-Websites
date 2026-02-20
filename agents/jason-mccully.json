@@ -1,0 +1,16 @@
+{
+  "slug": "jason-mccully",
+  "template": "clean-corporate-grid",
+  "name": "Jason Mccully",
+  "phone": "",
+  "email": "jason@mccullyinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "My main objective in business is to always deal with my customers and associates in an honest and caring manner. Our agency is made up of Christians who strive to treat people with the highest service and courtesy in our business dealings.",
+  "location": {
+    "city": "Republic",
+    "state": "MO",
+    "address": ""
+  }
+}

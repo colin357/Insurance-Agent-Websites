@@ -1,0 +1,16 @@
+{
+  "slug": "joel-gendelman",
+  "template": "classic-trust",
+  "name": "Joel Gendelman",
+  "phone": "",
+  "email": "joelg@n2uitive.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Founded in 2006 and based in Seattle, n2uitive is the intelligent conversation platform transforming recorded statements into actionable data insights for P&C insurance claims. Purpose-built for the entire statement lifecycle, n2uitive streamlines workflows...",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "address": ""
+  }
+}

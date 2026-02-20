@@ -1,0 +1,16 @@
+{
+  "slug": "jacob-gavrilov",
+  "template": "local-friendly",
+  "name": "Jacob Gavrilov",
+  "phone": "",
+  "email": "jacob@wilshireinsure.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Modernizing auto, home, and commercial insurance through technology and smarter workflows. I built Wilshire around SmartQuote™, a secure tech-driven process that lets clients seamlessly connect their current insurance so we can review coverage, spot gaps, a...",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "address": ""
+  }
+}

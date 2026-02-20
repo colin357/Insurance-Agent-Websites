@@ -1,0 +1,16 @@
+{
+  "slug": "jessica-barry",
+  "template": "card-first-mosaic",
+  "name": "Jessica Barry",
+  "phone": "",
+  "email": "jessica@jlbpf.com",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "I am the Founder and CEO of JLB Premium Finance (JLB). The inspiration for founding JLB is very personal - I myself faced a challenging situation after being in a coma for 10 days due to a devastating car accident in 2013. Following this incident, I was lab...",
+  "location": {
+    "city": "Miami Beach",
+    "state": "FL",
+    "address": ""
+  }
+}

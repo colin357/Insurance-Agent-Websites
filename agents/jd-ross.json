@@ -1,0 +1,16 @@
+{
+  "slug": "jd-ross",
+  "template": "clean-corporate-grid",
+  "name": "Jd Ross",
+  "phone": "",
+  "email": "jdross@withcoverage.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Founder of Opendoor and WithCoverage, building modern platforms that reshape how industries work. WithCoverage handles risk management for hundreds of ambitious businesses with modern, specialized and tech-enabled insurance programs.",
+  "location": {
+    "city": "United States",
+    "state": "",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "james-peterson",
+  "template": "local-friendly",
+  "name": "James Peterson",
+  "phone": "",
+  "email": "jperez@emblemhealth.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Lansdowne",
+    "state": "PA",
+    "address": ""
+  }
+}

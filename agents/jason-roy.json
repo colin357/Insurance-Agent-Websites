@@ -1,0 +1,16 @@
+{
+  "slug": "jason-roy",
+  "template": "clean-corporate-grid",
+  "name": "Jason Roy",
+  "phone": "",
+  "email": "j.roy@primebenefitsolutions.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "88% of modern jobseekers will choose an employer that offers benefits over an employer that doesn't. These are the stakes for businesses that want to attract highly trained personnel to their team. With over six years of experience in the employee and execu...",
+  "location": {
+    "city": "United States",
+    "state": "",
+    "address": ""
+  }
+}

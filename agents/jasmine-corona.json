@@ -1,0 +1,16 @@
+{
+  "slug": "jasmine-corona",
+  "template": "local-friendly",
+  "name": "Jasmine Corona",
+  "phone": "",
+  "email": "jas@jasminecorona.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "My goal is building relationships and educating consumers about the insurance products they purchase. The value in education changes your perception of insurance. My job to make sure people are happy and confident knowing they are protecting their families...",
+  "location": {
+    "city": "Julian",
+    "state": "CA",
+    "address": ""
+  }
+}

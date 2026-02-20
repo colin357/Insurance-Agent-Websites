@@ -1,0 +1,16 @@
+{
+  "slug": "jeffery-d-magoon",
+  "template": "local-friendly",
+  "name": "Jeffery D. Magoon",
+  "phone": "",
+  "email": "jeff@magoongroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Jeff is president and CEO of Magoon Group, an insurance and business growth consulting agency. In 2022, Jeff identified a gap in the commodity-based insurance agency model that focused solely on closing contracts rather than serving clients to grow their bu...",
+  "location": {
+    "city": "Denver",
+    "state": "CO",
+    "address": ""
+  }
+}

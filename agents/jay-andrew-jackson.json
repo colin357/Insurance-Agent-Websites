@@ -1,0 +1,16 @@
+{
+  "slug": "jay-andrew-jackson",
+  "template": "modern-glassmorphism",
+  "name": "Jay Andrew Jackson",
+  "phone": "",
+  "email": "jay@jacksoncompanies.net",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "New Hanover County",
+    "state": "NC",
+    "address": ""
+  }
+}
