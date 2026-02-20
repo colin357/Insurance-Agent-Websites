@@ -1,0 +1,16 @@
+{
+  "slug": "mark-roth",
+  "template": "modern-glassmorphism",
+  "name": "Mark Roth",
+  "phone": "",
+  "email": "mark@insuranceadvocacyfl.org",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Mark Roth works with solution providers to help generate leads and market presence in the…",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "address": ""
+  }
+}

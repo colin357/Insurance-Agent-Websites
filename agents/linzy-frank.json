@@ -1,0 +1,16 @@
+{
+  "slug": "linzy-frank",
+  "template": "local-friendly",
+  "name": "Linzy Frank",
+  "phone": "",
+  "email": "linzy@sitkainsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Marcellus",
+    "state": "NY",
+    "address": ""
+  }
+}

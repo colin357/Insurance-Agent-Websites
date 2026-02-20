@@ -1,0 +1,16 @@
+{
+  "slug": "leo-lagrotte",
+  "template": "local-friendly",
+  "name": "Leo Lagrotte",
+  "phone": "",
+  "email": "llagrotte@lsa-llc.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "As founder, President & CEO of Life Settlement Advisors, LLC, I have over 18 years of experience working in the life settlement industry. What is a life settlement and how does it work? A life settlement is the sale of a person's life insurance policy to a...",
+  "location": {
+    "city": "Carmel",
+    "state": "IN",
+    "address": ""
+  }
+}

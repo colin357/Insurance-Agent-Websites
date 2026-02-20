@@ -1,0 +1,16 @@
+{
+  "slug": "melissa-taylor",
+  "template": "tech-forward",
+  "name": "Melissa Taylor",
+  "phone": "",
+  "email": "melissa.taylor@healthrosetta.org",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I shape chaos into a productive force. It has been my privilege to do this in startup, corporate, non-profit and government contexts over the past 15 years.<br/><br/>Growth by definition creates operational gaps and misalignments within a company which then...",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "address": ""
+  }
+}

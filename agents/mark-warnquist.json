@@ -1,0 +1,16 @@
+{
+  "slug": "mark-warnquist",
+  "template": "classic-trust",
+  "name": "Mark Warnquist",
+  "phone": "",
+  "email": "mark@inshare.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "address": ""
+  }
+}

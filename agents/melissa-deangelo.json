@@ -1,0 +1,16 @@
+{
+  "slug": "melissa-deangelo",
+  "template": "split-screen-hero",
+  "name": "Melissa Deangelo",
+  "phone": "",
+  "email": "melissa.deangelo@wflinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Hi, I’m Melissa DeAngelo and I’m the owner of West Florida Insurance.<br><br>As an…",
+  "location": {
+    "city": "Sarasota",
+    "state": "FL",
+    "address": ""
+  }
+}

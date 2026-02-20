@@ -1,0 +1,16 @@
+{
+  "slug": "leronda-jackson",
+  "template": "card-first-mosaic",
+  "name": "Leronda Jackson",
+  "phone": "",
+  "email": "leronda@lflinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Providing our customers a with lot more than just a great insurance policy. We provide consultation services to find the right policies to protect your company, your loved ones, and your home. Our focus is on YOU, our client, not the insurance carriers. You...",
+  "location": {
+    "city": "Dayton",
+    "state": "OH",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "matt-white",
+  "template": "clean-corporate-grid",
+  "name": "Matt White",
+  "phone": "",
+  "email": "matt@bwifly.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I help aircraft owners and aviation businesses protect what matters most, by navigating the complex world of aviation insurance with clarity, integrity, and relentless innovation.<br><br>CEO of BWI Aviation Insurance<br>We’re proud to be the highest-rated a...",
+  "location": {
+    "city": "Corona",
+    "state": "CA",
+    "address": ""
+  }
+}

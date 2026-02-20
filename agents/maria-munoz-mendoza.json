@@ -1,0 +1,16 @@
+{
+  "slug": "maria-munoz-mendoza",
+  "template": "clean-corporate-grid",
+  "name": "Maria Munoz (mendoza)",
+  "phone": "",
+  "email": "maria.munoz@greatflorida.com",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Davenport",
+    "state": "FL",
+    "address": ""
+  }
+}

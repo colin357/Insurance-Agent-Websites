@@ -1,0 +1,16 @@
+{
+  "slug": "matthew-sutika",
+  "template": "bold-professional",
+  "name": "Matthew Sutika",
+  "phone": "",
+  "email": "matthew@nimbleins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I’m the CEO of Nimble — a modern insurance brokerage built for entrepreneurs, real estate investors, and business owners who want smarter, faster, more tailored coverage. We don’t believe in one-size-fits-all insurance. We believe in strategy, speed, and so...",
+  "location": {
+    "city": "Sarasota",
+    "state": "FL",
+    "address": ""
+  }
+}

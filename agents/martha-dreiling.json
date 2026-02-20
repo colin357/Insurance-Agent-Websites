@@ -1,0 +1,16 @@
+{
+  "slug": "martha-dreiling",
+  "template": "warm-friendly",
+  "name": "Martha Dreiling",
+  "phone": "",
+  "email": "martha@reserv.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Building the future of claims @ Reserv.",
+  "location": {
+    "city": "Berryville",
+    "state": "VA",
+    "address": ""
+  }
+}

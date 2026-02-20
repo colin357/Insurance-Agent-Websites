@@ -1,0 +1,16 @@
+{
+  "slug": "michael-jones",
+  "template": "tech-forward",
+  "name": "Michael Jones",
+  "phone": "",
+  "email": "michael.jones@combinedrat.io",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I have worked and consulted in the insurance industry for over 20 years at the business level and technology side, encompassing many verticals within the industry. I started my career in the retail agency space as a producer marketing and selling property a...",
+  "location": {
+    "city": "United States",
+    "state": "",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "lisa-whitehead",
+  "template": "tech-forward",
+  "name": "Lisa Whitehead",
+  "phone": "",
+  "email": "lwhitehead@wesellins.com",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "My career in employee benefits has been going strong since 1999. When I started my own company in 2001, my mission was to provide employers the tools and support to properly educate their employees about benefits and plan options. I'm passionate and committ...",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": ""
+  }
+}

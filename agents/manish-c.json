@@ -1,0 +1,16 @@
+{
+  "slug": "manish-c",
+  "template": "classic-trust",
+  "name": "Manish C.",
+  "phone": "",
+  "email": "manish@surebright.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Lived in five countries on three continents. Built tech used by 100s of millions of users globally!",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

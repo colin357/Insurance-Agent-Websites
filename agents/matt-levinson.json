@@ -1,0 +1,16 @@
+{
+  "slug": "matt-levinson",
+  "template": "tech-forward",
+  "name": "Matt Levinson",
+  "phone": "",
+  "email": "matt@writewise.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Thoughts on fintech, startups, and life at: mattlevinson.medium.com/",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

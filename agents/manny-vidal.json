@@ -1,0 +1,16 @@
+{
+  "slug": "manny-vidal",
+  "template": "split-screen-hero",
+  "name": "Manny Vidal",
+  "phone": "",
+  "email": "mvidal@premiumfinancegroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Premium Finance Group (PFG) leads the industry in providing innovative premium finance solutions for life insurance policies across the U.S. and Latin America. As founder and CEO, I have over 23 years of experience spearheading strategies that empower high-...",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "address": ""
+  }
+}

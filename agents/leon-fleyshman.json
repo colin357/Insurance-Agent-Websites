@@ -1,0 +1,16 @@
+{
+  "slug": "leon-fleyshman",
+  "template": "split-screen-hero",
+  "name": "Leon Fleyshman",
+  "phone": "",
+  "email": "leon@goinghighercrm.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Passionate about helping people! <br><br>The Code Corporation:<br>In my professional…",
+  "location": {
+    "city": "Mission Viejo",
+    "state": "CA",
+    "address": ""
+  }
+}

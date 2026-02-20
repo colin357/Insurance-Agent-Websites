@@ -1,0 +1,16 @@
+{
+  "slug": "matt-aaron",
+  "template": "warm-friendly",
+  "name": "Matt Aaron",
+  "phone": "",
+  "email": "matt@insuranceagentapp.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "If someone had ever told me I'd be working in the insurance industry I'd say they were crazy. A near-miss life-threatening accident (and the need to contact my agent) caused me to re-think that. The problem was that I could not remember the name of my agent...",
+  "location": {
+    "city": "Charlotte",
+    "state": "NC",
+    "address": ""
+  }
+}

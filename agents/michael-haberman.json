@@ -1,0 +1,16 @@
+{
+  "slug": "michael-haberman",
+  "template": "classic-trust",
+  "name": "Michael Haberman",
+  "phone": "",
+  "email": "michael@grnoco.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "FL",
+    "address": ""
+  }
+}

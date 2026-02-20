@@ -1,0 +1,16 @@
+{
+  "slug": "larry-hartfield",
+  "template": "clean-corporate-grid",
+  "name": "Larry Hartfield",
+  "phone": "",
+  "email": "larry@hartfieldinsgroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "As an Insurance Agent, Larry has the honor of working with clients helping them gain an awareness of the issues that could affect their financial well-being and their future. Gaining the peace of mind knowing they have protected their hard earned assets whe...",
+  "location": {
+    "city": "Gainesville",
+    "state": "FL",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "matt-temmen",
+  "template": "clean-corporate-grid",
+  "name": "Matt Temmen",
+  "phone": "",
+  "email": "matt@temmeninsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "There's always a way if you're committed",
+  "location": {
+    "city": "Springfield",
+    "state": "MO",
+    "address": ""
+  }
+}

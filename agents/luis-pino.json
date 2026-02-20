@@ -1,0 +1,16 @@
+{
+  "slug": "luis-pino",
+  "template": "clean-corporate-grid",
+  "name": "Luis Pino",
+  "phone": "",
+  "email": "luis@agentero.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Berkeley",
+    "state": "CA",
+    "address": ""
+  }
+}
