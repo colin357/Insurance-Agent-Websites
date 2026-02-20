@@ -1,0 +1,16 @@
+{
+  "slug": "jonnie-anderson",
+  "template": "local-friendly",
+  "name": "Jonnie Anderson",
+  "phone": "",
+  "email": "janderson@insuredbylip.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Here at Legacy Insurance Partners we put our client's needs above all else. We have the ability to place policies with over 20 insurance companies, which allows us to customize each individual insurance package to our client's unique needs. We offer home, a...",
+  "location": {
+    "city": "Meridian",
+    "state": "CO",
+    "address": ""
+  }
+}

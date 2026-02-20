@@ -1,0 +1,16 @@
+{
+  "slug": "jordan-wilson",
+  "template": "card-first-mosaic",
+  "name": "Jordan Wilson",
+  "phone": "",
+  "email": "jordan@faithinsure.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "As the owner of Faith Insurance Agency, I bring over 22 years of experience in the property and casualty insurance industry. Throughout my career, I have built a reputation for delivering comprehensive insurance solutions, helping clients navigate risk with...",
+  "location": {
+    "city": "Eureka",
+    "state": "MO",
+    "address": ""
+  }
+}

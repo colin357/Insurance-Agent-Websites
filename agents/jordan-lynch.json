@@ -1,0 +1,16 @@
+{
+  "slug": "jordan-lynch",
+  "template": "clean-corporate-grid",
+  "name": "Jordan Lynch",
+  "phone": "",
+  "email": "jordan@outsail.co",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Experienced professional focused on working with organizations to decrease non revenue generating tasks. Work with business executives to help mitigate risk, improve cash flow, and manage their workforce.",
+  "location": {
+    "city": "Denver",
+    "state": "CO",
+    "address": ""
+  }
+}

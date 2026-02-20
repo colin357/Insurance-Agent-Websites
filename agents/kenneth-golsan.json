@@ -1,0 +1,16 @@
+{
+  "slug": "kenneth-golsan",
+  "template": "clean-corporate-grid",
+  "name": "Kenneth Golsan",
+  "phone": "",
+  "email": "kgolsan@golsanscruggs.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Co-Founder of Golsan Scruggs.<br><br>Specialties: (1) Corporate Risk Management and (2) Fiduciary Liability for Investment Managers (RIA).",
+  "location": {
+    "city": "Orchards",
+    "state": "WA",
+    "address": ""
+  }
+}

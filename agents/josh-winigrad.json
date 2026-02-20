@@ -1,0 +1,16 @@
+{
+  "slug": "josh-winigrad",
+  "template": "tech-forward",
+  "name": "Josh Winigrad",
+  "phone": "",
+  "email": "josh@selfbillpro.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": ""
+  }
+}

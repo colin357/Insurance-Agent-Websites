@@ -1,0 +1,16 @@
+{
+  "slug": "judge-graham",
+  "template": "warm-friendly",
+  "name": "Judge Graham",
+  "phone": "",
+  "email": "judge@coverbadger.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Judge Graham is a hard-hitting and proven entrepreneur with a successful track record of starting, growing and selling 9-figure companies. In addition to his private market experience, he also has experience in being apart of core executive management teams...",
+  "location": {
+    "city": "Dallas",
+    "state": "TX",
+    "address": ""
+  }
+}

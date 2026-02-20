@@ -1,0 +1,16 @@
+{
+  "slug": "john-bitinas",
+  "template": "split-screen-hero",
+  "name": "John Bitinas",
+  "phone": "",
+  "email": "john@northpoint-financial.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "John Bitinas is a licensed Life Insurance Agent who represents New England and over a dozen states across the nation. He is passionate about protecting families, bringing peace of mind, and building lasting relationships with his clients. <br><br>He is also...",
+  "location": {
+    "city": "Springfield",
+    "state": "NH",
+    "address": ""
+  }
+}

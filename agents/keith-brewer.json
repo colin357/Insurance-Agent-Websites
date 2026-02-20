@@ -1,0 +1,16 @@
+{
+  "slug": "keith-brewer",
+  "template": "warm-friendly",
+  "name": "Keith Brewer",
+  "phone": "",
+  "email": "keith@b2insurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Experienced Business Owner with a demonstrated history of working in the insurance industry. <br>Specialize in Group Benefits, Property & Casualty Insurance, Directors & Officers Insurance, Employment Practices Liability, Cyber Liability, Commercial Insuran...",
+  "location": {
+    "city": "Redondo Beach",
+    "state": "CA",
+    "address": ""
+  }
+}

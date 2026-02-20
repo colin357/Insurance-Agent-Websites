@@ -1,0 +1,16 @@
+{
+  "slug": "kelly-grafton",
+  "template": "classic-trust",
+  "name": "Kelly Grafton",
+  "phone": "",
+  "email": "kelly@prestongraftonagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "The Preston & Grafton Insurance Agency is a leading provider of insurance services in the Greater Pittsburgh Region. We have four convenient office locations in Shadyside, Mt. Lebanon, McMurray, and Wexford. The Preston & Grafton Insurance Agency offers an...",
+  "location": {
+    "city": "Dravosburg",
+    "state": "PA",
+    "address": ""
+  }
+}

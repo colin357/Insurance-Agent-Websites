@@ -1,0 +1,16 @@
+{
+  "slug": "kara-skinner",
+  "template": "local-friendly",
+  "name": "Kara Skinner",
+  "phone": "",
+  "email": "kara@integritysurety.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "As the owner and founder of Integrity Surety LLC, a surety-only broker, I help insurance agents, contractors, attorneys, and obligees with surety products. I have over 30 years of specialty surety experience, spanning from underwriting, management, and cons...",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "john-fees",
+  "template": "split-screen-hero",
+  "name": "John Fees",
+  "phone": "",
+  "email": "jtfees@gradguard.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Maryvale",
+    "state": "AZ",
+    "address": ""
+  }
+}

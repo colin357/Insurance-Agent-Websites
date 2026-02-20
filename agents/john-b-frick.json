@@ -1,0 +1,16 @@
+{
+  "slug": "john-b-frick",
+  "template": "card-first-mosaic",
+  "name": "John B Frick",
+  "phone": "",
+  "email": "frick@riskfinancegroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Nothing is more enjoyable than working with entrepreneurs growing their technology companies.",
+  "location": {
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "kimberly-klafczynski",
+  "template": "card-first-mosaic",
+  "name": "Kimberly Klafczynski",
+  "phone": "",
+  "email": "kimk@butfor.co",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I’ve built go-to-market from scratch at multiple early-stage SaaS companies, selling first deals and generating first pipeline — taking one from $50K to $1M ARR, another from 2 to 16 states and 5 to 35 logos. I’m industry agnostic and comfortable in zero-to...",
+  "location": {
+    "city": "Big Bear City",
+    "state": "CA",
+    "address": ""
+  }
+}

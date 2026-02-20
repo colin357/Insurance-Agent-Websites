@@ -1,0 +1,16 @@
+{
+  "slug": "jordan-eckley",
+  "template": "split-screen-hero",
+  "name": "Jordan Eckley",
+  "phone": "",
+  "email": "",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Skipped",
+  "location": {
+    "city": "Overland Park",
+    "state": "KS",
+    "address": ""
+  }
+}

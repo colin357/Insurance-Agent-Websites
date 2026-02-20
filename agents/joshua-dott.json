@@ -1,0 +1,16 @@
+{
+  "slug": "joshua-dott",
+  "template": "clean-corporate-grid",
+  "name": "Joshua Dott",
+  "phone": "",
+  "email": "jdott@dottinsurancegroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "address": ""
+  }
+}

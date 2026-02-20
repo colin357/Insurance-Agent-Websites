@@ -1,0 +1,16 @@
+{
+  "slug": "juan-martinez",
+  "template": "card-first-mosaic",
+  "name": "Juan Martinez",
+  "phone": "",
+  "email": "juan.martinez@estrellainsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "High-energy, results-oriented leader with an entrepreneurial attitude. <br>Self motivated, fast learner and able to reach any goal.",
+  "location": {
+    "city": "Saint Augustine",
+    "state": "FL",
+    "address": ""
+  }
+}

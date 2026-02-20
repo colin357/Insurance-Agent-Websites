@@ -1,0 +1,16 @@
+{
+  "slug": "jon-parker",
+  "template": "split-screen-hero",
+  "name": "Jon Parker",
+  "phone": "",
+  "email": "jparker@momentum-insurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Spring",
+    "state": "TX",
+    "address": ""
+  }
+}

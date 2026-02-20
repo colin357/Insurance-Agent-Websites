@@ -1,0 +1,16 @@
+{
+  "slug": "kate-spilsbury",
+  "template": "split-screen-hero",
+  "name": "Kate Spilsbury",
+  "phone": "",
+  "email": "kate@merebenefits.com",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "After nearly a decade in corporate leadership, I took the leap and built something of my own—Mere, a female-owned independent insurance agency built to simplify the complicated. Since 2018, I’ve helped thousands of individuals, families, self-employed paren...",
+  "location": {
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": ""
+  }
+}

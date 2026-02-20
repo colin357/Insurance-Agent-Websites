@@ -1,0 +1,16 @@
+{
+  "slug": "kyle-nakatsuji",
+  "template": "clean-corporate-grid",
+  "name": "Kyle Nakatsuji",
+  "phone": "",
+  "email": "kyle@clearcover.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I'm currently part of the amazing team at Clearcover, where we're building a smarter choice for car insurance. I used to be a Principal at American Family Ventures, where we invested in all kinds of awesome startups related to insurance. Before that I was a...",
+  "location": {
+    "city": "Woodridge",
+    "state": "IL",
+    "address": ""
+  }
+}
