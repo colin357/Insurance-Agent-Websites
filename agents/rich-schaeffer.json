@@ -1,0 +1,16 @@
+{
+  "slug": "rich-schaeffer",
+  "template": "card-first-mosaic",
+  "name": "Rich Schaeffer",
+  "phone": "",
+  "email": "rich@stateable.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

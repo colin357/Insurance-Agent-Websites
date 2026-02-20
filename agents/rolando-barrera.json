@@ -1,0 +1,16 @@
+{
+  "slug": "rolando-barrera",
+  "template": "warm-friendly",
+  "name": "Rolando Barrera",
+  "phone": "",
+  "email": "",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Skipped",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "TX",
+    "address": ""
+  }
+}

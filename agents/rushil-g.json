@@ -1,0 +1,16 @@
+{
+  "slug": "rushil-g",
+  "template": "local-friendly",
+  "name": "Rushil G.",
+  "phone": "",
+  "email": "rushil@nirvanatech.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "On a mission to harness the power of data and AI to revolutionize commercial insurance. Backed by top-tier VCs including Lightspeed, General Catalyst & Valor. Led Samsara's Connected Fleets platform, scaling it from scratch to $500M+ ARR & 20K+ customers. L...",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

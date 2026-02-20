@@ -1,0 +1,16 @@
+{
+  "slug": "sam-jensen",
+  "template": "local-friendly",
+  "name": "Sam Jensen",
+  "phone": "",
+  "email": "sam@stancerisk.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Insurance and risk management consulting specializing in renewables. Leadership skills, project management and 20 years of transaction experience including more than 1500 renewable energy transactions and 8 years real estate and infrastructure. Focusing on...",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

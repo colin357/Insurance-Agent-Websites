@@ -1,0 +1,16 @@
+{
+  "slug": "sean-fitzsimmons",
+  "template": "local-friendly",
+  "name": "Sean Fitzsimmons",
+  "phone": "",
+  "email": "sean@lollipopinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "address": ""
+  }
+}

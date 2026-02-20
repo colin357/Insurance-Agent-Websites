@@ -1,0 +1,16 @@
+{
+  "slug": "shaun-j-adams",
+  "template": "bold-professional",
+  "name": "Shaun J. Adams",
+  "phone": "",
+  "email": "shaun@sjadamsinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Customer service is very important to me. When looking at insurance, a client needs help not only looking at what is available for the cost, but also what coverages they need specifically for them. I offer a wide range of products: Home, Auto, Life, Busines...",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "address": ""
+  }
+}

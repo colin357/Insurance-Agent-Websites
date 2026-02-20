@@ -1,0 +1,16 @@
+{
+  "slug": "sean-way",
+  "template": "card-first-mosaic",
+  "name": "Sean Way",
+  "phone": "",
+  "email": "sean.way@weinsuregroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": ""
+  }
+}

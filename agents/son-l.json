@@ -1,0 +1,16 @@
+{
+  "slug": "son-l",
+  "template": "split-screen-hero",
+  "name": "Son L.",
+  "phone": "",
+  "email": "son@ourkettle.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "At Kettle, we’re redefining the Re/insurance industry through advanced technology and scientific innovation. Leveraging deep learning and an unprecedented wealth of high-quality data, we’re building a future where every person is protected from catastrophic...",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

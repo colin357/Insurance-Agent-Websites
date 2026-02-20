@@ -1,0 +1,16 @@
+{
+  "slug": "serge-bagdasarov",
+  "template": "split-screen-hero",
+  "name": "Serge Bagdasarov",
+  "phone": "",
+  "email": "serge@insuredbyabsolute.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Serge Bagdasarov is a dynamic leader whose inspiring journey began with fleeing his native country as a child and teen refugee. Over nearly 30 years, he has dedicated himself to empowering others through his work in business and community engagement.<br><br...",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "address": ""
+  }
+}

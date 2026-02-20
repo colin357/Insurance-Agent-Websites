@@ -1,0 +1,16 @@
+{
+  "slug": "rosie-paulsen",
+  "template": "clean-corporate-grid",
+  "name": "Rosie Paulsen",
+  "phone": "",
+  "email": "rosie@rosiepaulsen.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Rosie Paulsen is a dynamic business strategist, inspirational speaker, and community leader who empowers organizations to build purpose-driven teams and achieve sustainable growth. With a background that spans entrepreneurship, leadership, and Medicare expe...",
+  "location": {
+    "city": "Zephyrhills",
+    "state": "FL",
+    "address": ""
+  }
+}

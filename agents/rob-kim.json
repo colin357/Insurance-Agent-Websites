@@ -1,0 +1,16 @@
+{
+  "slug": "rob-kim",
+  "template": "classic-trust",
+  "name": "Rob Kim",
+  "phone": "",
+  "email": "rob@kimcoagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Outgoing and motivated VP of Sales with 20+ years of experience in sales, acquiring and supporting high-value clients. We have demonstrated expertise in cultivating and managing exceptional Business Development teams to meet and exceed demanding targets. Re...",
+  "location": {
+    "city": "Vinings",
+    "state": "GA",
+    "address": ""
+  }
+}

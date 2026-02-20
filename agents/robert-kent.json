@@ -1,0 +1,16 @@
+{
+  "slug": "robert-kent",
+  "template": "classic-trust",
+  "name": "Robert Kent",
+  "phone": "",
+  "email": "rkent@kentfig.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Spring",
+    "state": "TX",
+    "address": ""
+  }
+}

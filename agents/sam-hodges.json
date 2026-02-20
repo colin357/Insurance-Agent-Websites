@@ -1,0 +1,16 @@
+{
+  "slug": "sam-hodges",
+  "template": "warm-friendly",
+  "name": "Sam Hodges",
+  "phone": "",
+  "email": "sam.hodges@vouch.us",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I'm the co-founder and CEO of Vouch Insurance, focused on emerging companies and emerging risks.",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "renee-jackson",
+  "template": "bold-professional",
+  "name": "Renee Jackson",
+  "phone": "",
+  "email": "renee@reneejacksoninsuranceagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Licensed Independent Insurance Agent with 20+ year of experience. We offer Auto, Home, Life and Specialize in Commercial Insurance.",
+  "location": {
+    "city": "Fayette County",
+    "state": "KY",
+    "address": ""
+  }
+}

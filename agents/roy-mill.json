@@ -1,0 +1,16 @@
+{
+  "slug": "roy-mill",
+  "template": "bold-professional",
+  "name": "Roy Mill",
+  "phone": "",
+  "email": "roy@joshuins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Menlo Park",
+    "state": "CA",
+    "address": ""
+  }
+}
