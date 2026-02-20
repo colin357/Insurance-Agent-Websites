@@ -81,8 +81,9 @@ const templateMeta: Record<
   },
 };
 
-export default function HomePage() {
-  const slugs = getAllAgentSlugs();
+export default async function HomePage() {
+  const slugs = await getAllAgentSlugs();
+  const agentList = await Promise.all(slugs.map((slug) => getAgent(slug)));
   const templateNames = getAllTemplateNames();
 
   return (
@@ -171,8 +172,8 @@ export default function HomePage() {
             </div>
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-              {slugs.map((slug) => {
-                const agent = getAgent(slug);
+              {slugs.map((slug, i) => {
+                const agent = agentList[i];
                 const meta = agent ? templateMeta[agent.template] : null;
                 return (
                   <Link
