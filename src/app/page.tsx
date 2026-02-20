@@ -160,28 +160,16 @@ export default async function HomePage() {
 
         {/* Deployed Agents */}
         <section>
-          <div className="flex items-center justify-between mb-6">
-            <h2 className="text-xl font-semibold text-gray-900">
-              Deployed Agents
-            </h2>
-            <Link
-              href="/admin/upload"
-              className="text-sm text-blue-600 hover:text-blue-800 font-medium"
-            >
-              + Upload agents
-            </Link>
-          </div>
+          <h2 className="text-xl font-semibold text-gray-900 mb-6">
+            Deployed Agents
+          </h2>
           {agents.length === 0 ? (
             <div className="bg-white rounded-lg border p-6 text-gray-500">
-              No agents configured yet. Run{" "}
+              No agents configured yet. Add{" "}
               <code className="bg-gray-100 px-2 py-1 rounded text-sm">
-                npm run create-agent
+                agents/leads_final.json
               </code>{" "}
-              to create one, or{" "}
-              <Link href="/admin/upload" className="text-blue-600 hover:underline">
-                upload JSON files
-              </Link>
-              .
+              to the repository.
             </div>
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
