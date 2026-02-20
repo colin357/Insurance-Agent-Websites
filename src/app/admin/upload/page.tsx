@@ -8,14 +8,17 @@ import { AgentConfig } from "@/lib/types";
 type UploadState = "idle" | "uploading" | "done";
 
 interface UploadResult {
-  succeeded: string[];
+  mode: "leads-file" | "individual";
+  agentCount: number;
   failed: { filename: string; reason: string }[];
 }
+
+const LEADS_FILENAME = "leads_final.json";
 
 export default function UploadAgentsPage() {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [state, setState] = useState<UploadState>("idle");
-  const [progress, setProgress] = useState({ done: 0, total: 0 });
+  const [progressLabel, setProgressLabel] = useState("");
   const [result, setResult] = useState<UploadResult | null>(null);
   const [dragOver, setDragOver] = useState(false);
 
@@ -24,52 +27,67 @@ export default function UploadAgentsPage() {
     if (!fileArray.length) return;
 
     setState("uploading");
-    setProgress({ done: 0, total: fileArray.length });
     setResult(null);
 
-    const succeeded: string[] = [];
-    const failed: { filename: string; reason: string }[] = [];
+    // ── Case 1: single leads_final.json bulk file ────────────────────────────
+    const leadsFile = fileArray.find((f) => f.name === LEADS_FILENAME);
+    if (leadsFile) {
+      setProgressLabel("Uploading leads_final.json…");
+      try {
+        const text = await leadsFile.text();
+        const data = JSON.parse(text);
+        if (!Array.isArray(data)) throw new Error("Expected a JSON array");
+        const agentCount = (data as AgentConfig[]).length;
 
-    // Upload files concurrently in batches to avoid overwhelming the browser
+        await upload(`agents/${LEADS_FILENAME}`, new Blob([text], { type: "application/json" }), {
+          access: "public",
+          handleUploadUrl: "/api/blob/upload",
+        });
+
+        setResult({ mode: "leads-file", agentCount, failed: [] });
+      } catch (err) {
+        setResult({
+          mode: "leads-file",
+          agentCount: 0,
+          failed: [{ filename: LEADS_FILENAME, reason: (err as Error).message }],
+        });
+      }
+      setState("done");
+      return;
+    }
+
+    // ── Case 2: individual agent JSON files ──────────────────────────────────
+    const failed: { filename: string; reason: string }[] = [];
+    let succeeded = 0;
+
     const BATCH_SIZE = 10;
     for (let i = 0; i < fileArray.length; i += BATCH_SIZE) {
       const batch = fileArray.slice(i, i + BATCH_SIZE);
+      setProgressLabel(
+        `Uploading ${Math.min(i + BATCH_SIZE, fileArray.length)} / ${fileArray.length}…`
+      );
 
       await Promise.all(
         batch.map(async (file) => {
           try {
-            // Validate JSON and extract slug before uploading
             const text = await file.text();
-            let agent: AgentConfig;
-            try {
-              agent = JSON.parse(text) as AgentConfig;
-            } catch {
-              throw new Error("Invalid JSON");
-            }
+            const agent = JSON.parse(text) as AgentConfig;
             if (!agent.slug) throw new Error("Missing required 'slug' field");
 
-            const blob = new Blob([text], { type: "application/json" });
-
-            // Upload directly to Vercel Blob — bypasses the serverless body limit
-            await upload(`agents/${agent.slug}.json`, blob, {
-              access: "public",
-              handleUploadUrl: "/api/blob/upload",
-            });
-
-            succeeded.push(agent.slug);
+            await upload(
+              `agents/${agent.slug}.json`,
+              new Blob([text], { type: "application/json" }),
+              { access: "public", handleUploadUrl: "/api/blob/upload" }
+            );
+            succeeded++;
           } catch (err) {
-            failed.push({
-              filename: file.name,
-              reason: (err as Error).message,
-            });
+            failed.push({ filename: file.name, reason: (err as Error).message });
           }
         })
       );
-
-      setProgress((p) => ({ ...p, done: Math.min(i + BATCH_SIZE, fileArray.length) }));
     }
 
-    setResult({ succeeded, failed });
+    setResult({ mode: "individual", agentCount: succeeded, failed });
     setState("done");
   }
 
@@ -86,12 +104,9 @@ export default function UploadAgentsPage() {
   function reset() {
     setState("idle");
     setResult(null);
-    setProgress({ done: 0, total: 0 });
+    setProgressLabel("");
     if (fileInputRef.current) fileInputRef.current.value = "";
   }
-
-  const pct =
-    progress.total > 0 ? Math.round((progress.done / progress.total) * 100) : 0;
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -105,18 +120,20 @@ export default function UploadAgentsPage() {
       </header>
 
       <main className="max-w-3xl mx-auto px-6 py-10 space-y-8">
-        {/* How it works */}
-        <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 text-sm text-blue-800 space-y-1">
-          <p className="font-medium">How this works</p>
+        {/* Info banner */}
+        <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 text-sm text-blue-800 space-y-2">
+          <p className="font-medium">Two upload modes</p>
           <p>
-            Files are uploaded <strong>directly to Vercel Blob storage</strong>{" "}
-            from your browser — they never pass through the serverless function,
-            so there is no body size limit. You can upload thousands of files at
-            once.
+            <strong>Bulk (recommended):</strong> drop a single{" "}
+            <code className="bg-blue-100 px-1 rounded">leads_final.json</code>{" "}
+            containing a JSON array of all agents — uploaded as one file, no
+            size limit.
           </p>
           <p>
-            After uploading, trigger a new Vercel deployment so the static pages
-            are regenerated from the updated agent list.
+            <strong>Individual:</strong> drop multiple single-agent{" "}
+            <code className="bg-blue-100 px-1 rounded">.json</code> files — each
+            is uploaded directly to Vercel Blob, bypassing the serverless body
+            limit.
           </p>
         </div>
 
@@ -133,14 +150,11 @@ export default function UploadAgentsPage() {
                 : "border-gray-300 bg-white hover:border-gray-400"
             }`}
           >
-            <div className="text-4xl mb-3 text-gray-300">JSON</div>
+            <div className="text-4xl mb-3 text-gray-300">{ }</div>
             <p className="text-gray-700 font-medium">
-              Drop agent JSON files here, or click to browse
+              Drop <code>leads_final.json</code> or individual agent files here
             </p>
-            <p className="text-gray-400 text-sm mt-1">
-              Select any number of <code>.json</code> files — all will be
-              uploaded concurrently
-            </p>
+            <p className="text-gray-400 text-sm mt-1">or click to browse</p>
             <input
               ref={fileInputRef}
               type="file"
@@ -154,20 +168,9 @@ export default function UploadAgentsPage() {
 
         {/* Progress */}
         {state === "uploading" && (
-          <div className="bg-white border rounded-xl p-8 space-y-4">
-            <div className="flex justify-between text-sm text-gray-600">
-              <span>Uploading agents…</span>
-              <span>
-                {progress.done} / {progress.total}
-              </span>
-            </div>
-            <div className="w-full bg-gray-100 rounded-full h-3 overflow-hidden">
-              <div
-                className="bg-blue-500 h-3 rounded-full transition-all duration-300"
-                style={{ width: `${pct}%` }}
-              />
-            </div>
-            <p className="text-sm text-gray-400 text-center">{pct}%</p>
+          <div className="bg-white border rounded-xl p-8 text-center space-y-3">
+            <div className="w-6 h-6 border-2 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto" />
+            <p className="text-sm text-gray-600">{progressLabel}</p>
           </div>
         )}
 
@@ -175,29 +178,24 @@ export default function UploadAgentsPage() {
         {state === "done" && result && (
           <div className="space-y-4">
             {/* Summary */}
-            <div className="bg-white border rounded-xl p-6 flex gap-8">
-              <div className="text-center">
-                <div className="text-3xl font-bold text-green-600">
-                  {result.succeeded.length}
-                </div>
-                <div className="text-sm text-gray-500 mt-1">uploaded</div>
-              </div>
-              {result.failed.length > 0 && (
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-red-500">
-                    {result.failed.length}
-                  </div>
-                  <div className="text-sm text-gray-500 mt-1">failed</div>
-                </div>
+            <div className="bg-white border rounded-xl p-6 space-y-1">
+              {result.failed.length === 0 ? (
+                <p className="font-medium text-green-700">
+                  {result.mode === "leads-file"
+                    ? `leads_final.json uploaded — ${result.agentCount.toLocaleString()} agents`
+                    : `${result.agentCount} agent file${result.agentCount !== 1 ? "s" : ""} uploaded`}
+                </p>
+              ) : (
+                <p className="font-medium text-red-600">
+                  Upload failed — see details below
+                </p>
               )}
             </div>
 
             {/* Errors */}
             {result.failed.length > 0 && (
               <div className="bg-red-50 border border-red-200 rounded-xl p-4">
-                <p className="text-sm font-medium text-red-700 mb-2">
-                  Failed uploads
-                </p>
+                <p className="text-sm font-medium text-red-700 mb-2">Errors</p>
                 <ul className="space-y-1 text-sm text-red-600">
                   {result.failed.map((f, i) => (
                     <li key={i}>
@@ -208,16 +206,13 @@ export default function UploadAgentsPage() {
               </div>
             )}
 
-            {result.succeeded.length > 0 && (
-              <div className="bg-green-50 border border-green-200 rounded-xl p-4">
-                <p className="text-sm font-medium text-green-700 mb-1">
-                  Next step
-                </p>
-                <p className="text-sm text-green-700">
+            {result.agentCount > 0 && (
+              <div className="bg-green-50 border border-green-200 rounded-xl p-4 text-sm text-green-700">
+                <p className="font-medium mb-1">Next step</p>
+                <p>
                   Trigger a new Vercel deployment (push a commit or redeploy from
-                  the dashboard) to regenerate static pages for the{" "}
-                  {result.succeeded.length} uploaded agent
-                  {result.succeeded.length !== 1 ? "s" : ""}.
+                  the dashboard) to regenerate static pages from the updated
+                  agent data.
                 </p>
               </div>
             )}
@@ -227,7 +222,7 @@ export default function UploadAgentsPage() {
                 onClick={reset}
                 className="px-4 py-2 text-sm bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
               >
-                Upload more files
+                Upload again
               </button>
               <Link
                 href="/"
