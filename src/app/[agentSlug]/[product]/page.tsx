@@ -40,6 +40,7 @@ export default async function ProductPage({
   if (!product) notFound();
 
   const template = getTemplate(agent.template);
+  if (!template) notFound();
   const ProductPageComponent = template.ProductPage;
 
   return <ProductPageComponent agent={agent} product={product} />;

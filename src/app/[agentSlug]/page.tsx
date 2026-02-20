@@ -31,6 +31,7 @@ export default async function AgentLandingPage({
   if (!agent) notFound();
 
   const template = getTemplate(agent.template);
+  if (!template) notFound();
   const LandingPage = template.LandingPage;
 
   return <LandingPage agent={agent} />;

@@ -102,7 +102,7 @@ async function readAllFromBlobIndividual(): Promise<AgentConfig[]> {
  *   3. Individual agents/*.json from Vercel Blob  (legacy fallback)
  *   4. Individual agents/*.json from local filesystem  (legacy fallback)
  */
-export async function getAllAgents(): Promise<AgentConfig[]> {
+async function loadRawAgents(): Promise<AgentConfig[]> {
   if (useBlob) {
     const leads = await readLeadsFromBlob();
     if (leads) return leads;
@@ -123,6 +123,12 @@ export async function getAllAgents(): Promise<AgentConfig[]> {
   }
 
   return readAllFromFilesystem();
+}
+
+export async function getAllAgents(): Promise<AgentConfig[]> {
+  const raw = await loadRawAgents();
+  // Drop malformed entries that have no slug — these would generate broken routes
+  return raw.filter((a) => !!a.slug);
 }
 
 export async function getAllAgentSlugs(): Promise<string[]> {
