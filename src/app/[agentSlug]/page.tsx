@@ -3,7 +3,8 @@ import { getAgent, getAllAgentSlugs } from "@/lib/agents";
 import { getTemplate } from "@/templates";
 
 export async function generateStaticParams() {
-  return getAllAgentSlugs().map((slug) => ({ agentSlug: slug }));
+  const slugs = await getAllAgentSlugs();
+  return slugs.map((slug) => ({ agentSlug: slug }));
 }
 
 export async function generateMetadata({
@@ -12,7 +13,7 @@ export async function generateMetadata({
   params: Promise<{ agentSlug: string }>;
 }) {
   const { agentSlug } = await params;
-  const agent = getAgent(agentSlug);
+  const agent = await getAgent(agentSlug);
   if (!agent) return { title: "Not Found" };
   return {
     title: `${agent.name} — Insurance Agent in ${agent.location.city}, ${agent.location.state}`,
@@ -26,7 +27,7 @@ export default async function AgentLandingPage({
   params: Promise<{ agentSlug: string }>;
 }) {
   const { agentSlug } = await params;
-  const agent = getAgent(agentSlug);
+  const agent = await getAgent(agentSlug);
   if (!agent) notFound();
 
   const template = getTemplate(agent.template);

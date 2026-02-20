@@ -1,4 +1,4 @@
-import { getAllAgentSlugs, getAgent } from "@/lib/agents";
+import { getAllAgents } from "@/lib/agents";
 import { getAllTemplateNames } from "@/templates";
 import { TemplateName } from "@/lib/types";
 import Link from "next/link";
@@ -81,9 +81,11 @@ const templateMeta: Record<
   },
 };
 
-export default function HomePage() {
-  const slugs = getAllAgentSlugs();
-  const templateNames = getAllTemplateNames();
+export default async function HomePage() {
+  const [agents, templateNames] = await Promise.all([
+    getAllAgents(),
+    Promise.resolve(getAllTemplateNames()),
+  ]);
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -94,8 +96,8 @@ export default function HomePage() {
             Insurance Agent Websites
           </h1>
           <p className="text-gray-500 mt-1">
-            {templateNames.length} templates &middot; {slugs.length} agent
-            {slugs.length !== 1 ? "s" : ""} deployed
+            {templateNames.length} templates &middot; {agents.length} agent
+            {agents.length !== 1 ? "s" : ""} deployed
           </p>
         </div>
       </header>
@@ -158,46 +160,53 @@ export default function HomePage() {
 
         {/* Deployed Agents */}
         <section>
-          <h2 className="text-xl font-semibold text-gray-900 mb-6">
-            Deployed Agents
-          </h2>
-          {slugs.length === 0 ? (
+          <div className="flex items-center justify-between mb-6">
+            <h2 className="text-xl font-semibold text-gray-900">
+              Deployed Agents
+            </h2>
+            <Link
+              href="/admin/upload"
+              className="text-sm text-blue-600 hover:text-blue-800 font-medium"
+            >
+              + Upload agents
+            </Link>
+          </div>
+          {agents.length === 0 ? (
             <div className="bg-white rounded-lg border p-6 text-gray-500">
               No agents configured yet. Run{" "}
               <code className="bg-gray-100 px-2 py-1 rounded text-sm">
                 npm run create-agent
               </code>{" "}
-              to create one.
+              to create one, or{" "}
+              <Link href="/admin/upload" className="text-blue-600 hover:underline">
+                upload JSON files
+              </Link>
+              .
             </div>
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-              {slugs.map((slug) => {
-                const agent = getAgent(slug);
-                const meta = agent ? templateMeta[agent.template] : null;
+              {agents.map((agent) => {
+                const meta = templateMeta[agent.template];
                 return (
                   <Link
-                    key={slug}
-                    href={`/${slug}`}
+                    key={agent.slug}
+                    href={`/${agent.slug}`}
                     className="group block bg-white rounded-xl border border-gray-200 p-5 hover:shadow-md hover:border-blue-300 transition-all"
                   >
                     <div className="flex items-center gap-3 mb-2">
                       <div className="w-10 h-10 rounded-full bg-blue-100 text-blue-700 flex items-center justify-center font-semibold text-sm shrink-0">
-                        {agent
-                          ? agent.name
-                              .split(" ")
-                              .map((w) => w[0])
-                              .join("")
-                          : slug[0].toUpperCase()}
+                        {agent.name
+                          .split(" ")
+                          .map((w) => w[0])
+                          .join("")}
                       </div>
                       <div className="min-w-0">
                         <h3 className="font-semibold text-gray-900 truncate group-hover:text-blue-600 transition-colors">
-                          {agent?.name ?? slug}
+                          {agent.name}
                         </h3>
-                        {agent && (
-                          <p className="text-xs text-gray-400 truncate">
-                            {agent.location.city}, {agent.location.state}
-                          </p>
-                        )}
+                        <p className="text-xs text-gray-400 truncate">
+                          {agent.location.city}, {agent.location.state}
+                        </p>
                       </div>
                     </div>
                     {meta && (
