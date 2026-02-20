@@ -1,0 +1,16 @@
+{
+  "slug": "tony-winser",
+  "template": "tech-forward",
+  "name": "Tony Winser",
+  "phone": "",
+  "email": "twinser@garywarneragency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Serving Southern California for 50-Years. We care about you.",
+  "location": {
+    "city": "West Rancho Dominguez",
+    "state": "CA",
+    "address": ""
+  }
+}

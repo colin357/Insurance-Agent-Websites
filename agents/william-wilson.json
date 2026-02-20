@@ -1,0 +1,16 @@
+{
+  "slug": "william-wilson",
+  "template": "clean-corporate-grid",
+  "name": "William Wilson",
+  "phone": "",
+  "email": "william@assertiveinsuranceservices.org",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Previously operating two businesses for 5 years, I had decided to transition into the insurance industry. <br>I am a Broker for Assertive Insurance Services LLC where we offer creative solutions to get insurance for ALL needs.<br><br>Along side my position...",
+  "location": {
+    "city": "Fallbrook",
+    "state": "CA",
+    "address": ""
+  }
+}

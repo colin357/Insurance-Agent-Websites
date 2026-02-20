@@ -1,0 +1,16 @@
+{
+  "slug": "todd-robison",
+  "template": "clean-corporate-grid",
+  "name": "Todd Robison",
+  "phone": "",
+  "email": "todd.robison@cedarpointfinancial.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

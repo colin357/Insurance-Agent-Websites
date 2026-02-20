@@ -1,0 +1,16 @@
+{
+  "slug": "stephen-de-leon",
+  "template": "bold-professional",
+  "name": "Stephen De Leon",
+  "phone": "",
+  "email": "sdeleon@prosafeinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "At Prosafe Insurance agency we help our clients find the most affordable and reliable insurance. We offer home, auto, life, business, & flood policies. We are proud to be an independent insurance agency which allows us to offer a variety of solutions to our...",
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "address": ""
+  }
+}

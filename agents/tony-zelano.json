@@ -1,0 +1,16 @@
+{
+  "slug": "tony-zelano",
+  "template": "modern-glassmorphism",
+  "name": "Tony Zelano",
+  "phone": "",
+  "email": "tony@zelanoinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "My family has been serving and protecting clients for over 50 years. So I grew up in the industry, and along with my brother have continued to develop our agency for a new generation of clients. I’m proud to spend my days helping businesses and individuals...",
+  "location": {
+    "city": "Greenville",
+    "state": "RI",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "vern-coleman",
+  "template": "tech-forward",
+  "name": "Vern Coleman",
+  "phone": "",
+  "email": "verncoleman@colemaninsurancellc.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "With over 13 years at The Coleman Insurance & Financial Group LLC, the focus has been on…",
+  "location": {
+    "city": "Independence",
+    "state": "OH",
+    "address": ""
+  }
+}

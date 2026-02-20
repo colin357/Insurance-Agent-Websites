@@ -1,0 +1,16 @@
+{
+  "slug": "wilson-mcwilliams",
+  "template": "tech-forward",
+  "name": "Wilson Mcwilliams",
+  "phone": "",
+  "email": "wilson@thejwmgroup.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I am the owner and strategist of JWM Consulting, an independent brokerage located in the Triangle that is focused on bringing group benefits to mission-oriented organizations. By designing benefit packages around group medical, dental, vision, life, disabil...",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "tom-mcgaffic",
+  "template": "card-first-mosaic",
+  "name": "Tom Mcgaffic",
+  "phone": "",
+  "email": "tmcgaffic@l3ben.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "As the founder of Level 3 Benefit Advisors, I fight health care complexity by simplifying how employees interact and engage with their benefits. I utilize my experience as a consultant and senior leader at several of the largest insurance brokers to deliver...",
+  "location": {
+    "city": "Winter Park",
+    "state": "FL",
+    "address": ""
+  }
+}

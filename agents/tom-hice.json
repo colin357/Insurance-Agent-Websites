@@ -1,0 +1,16 @@
+{
+  "slug": "tom-hice",
+  "template": "modern-glassmorphism",
+  "name": "Tom Hice",
+  "phone": "",
+  "email": "t.hice@mynationalbroker.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "At Insurance Advisors Inc. we don't sell insurance we help our clients buy insurance. I want to become more than just your insurance agent, I want to become a member of your team. My goal is to give my clients the best coverage for the best price and provid...",
+  "location": {
+    "city": "Baxter",
+    "state": "MN",
+    "address": ""
+  }
+}

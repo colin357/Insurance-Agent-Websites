@@ -1,0 +1,16 @@
+{
+  "slug": "tom-s",
+  "template": "split-screen-hero",
+  "name": "Tom S.",
+  "phone": "",
+  "email": "tom@hourly.app",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Hi! I’m Tom Sagi, co-founder and CEO of Hourly. I used to run a construction company when I got fed up with just how time-consuming it was to manage workers' comp and payroll for our hourly workers. So I decided to do something about it — and Hourly was born.",
+  "location": {
+    "city": "Palo Alto",
+    "state": "CA",
+    "address": ""
+  }
+}

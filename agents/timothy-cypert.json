@@ -1,0 +1,16 @@
+{
+  "slug": "timothy-cypert",
+  "template": "clean-corporate-grid",
+  "name": "Timothy Cypert",
+  "phone": "",
+  "email": "tim@cypertinsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Cypert Insurance<br><br>Cypert Insurance provides personal service and exceptional coverage options through over 100 Companies. We have over 50 years of combined Insurance experience. We look forward to earning your business and serving you!<br><br>Home. Au...",
+  "location": {
+    "city": "Rockwall",
+    "state": "TX",
+    "address": ""
+  }
+}

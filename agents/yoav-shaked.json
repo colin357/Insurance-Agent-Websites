@@ -1,0 +1,16 @@
+{
+  "slug": "yoav-shaked",
+  "template": "bold-professional",
+  "name": "Yoav Shaked",
+  "phone": "",
+  "email": "yoav@limit.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Variety of both local and international experiences in the startup, fintech, insurtech, and strategy consulting spaces.",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

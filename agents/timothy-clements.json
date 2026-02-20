@@ -1,0 +1,16 @@
+{
+  "slug": "timothy-clements",
+  "template": "card-first-mosaic",
+  "name": "Timothy Clements",
+  "phone": "",
+  "email": "tim@clementsins.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "To provide the best insurance coverage at a reasonable price to the residents of the New Orleans Metropolitan Area.<br><br>Specialties: Commercial lines insurance including but not limited to General Liability, Commercial Property, Business Owners Policies,...",
+  "location": {
+    "city": "Chalmette",
+    "state": "LA",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "thomas-heimann",
+  "template": "clean-corporate-grid",
+  "name": "Thomas Heimann",
+  "phone": "",
+  "email": "thomas@cloudtitle.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I’m an Internet pioneer, technology entrepreneur, and AI systems architect focused on how artificial intelligence is fundamentally reshaping real estate and title operations. For more than three decades, I’ve worked at the intersection of emerging technolog...",
+  "location": {
+    "city": "Land O' Lakes",
+    "state": "FL",
+    "address": ""
+  }
+}

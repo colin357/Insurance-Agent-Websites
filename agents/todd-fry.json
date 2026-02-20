@@ -1,0 +1,16 @@
+{
+  "slug": "todd-fry",
+  "template": "classic-trust",
+  "name": "Todd Fry",
+  "phone": "",
+  "email": "todd@fryintegra.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I am a well seasoned insurance professional, who takes pride in helping businesses and families protect what's most important to them. In my 20+ years in the insurance business, I have helped thousands of individuals and business owners avoid financial ruin...",
+  "location": {
+    "city": "Duncanville",
+    "state": "TX",
+    "address": ""
+  }
+}
