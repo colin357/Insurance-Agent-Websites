@@ -1,0 +1,16 @@
+{
+  "slug": "zach-b",
+  "template": "classic-trust",
+  "name": "Zach B.",
+  "phone": "",
+  "email": "zach@sharedalliance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I help businesses and individuals make better insurance decisions. Our goal at Shared Alliance Insurance, Inc. is to provide exceptional service and protection to our clients. We strive daily to protect our clients assets through insurance protection and so...",
+  "location": {
+    "city": "Anderson",
+    "state": "SC",
+    "address": ""
+  }
+}
