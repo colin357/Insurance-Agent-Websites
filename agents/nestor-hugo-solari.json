@@ -1,0 +1,16 @@
+{
+  "slug": "nestor-hugo-solari",
+  "template": "split-screen-hero",
+  "name": "Nestor Hugo Solari",
+  "phone": "",
+  "email": "nestor@sigoseguros.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Nestor is Co-Founder and CEO of Sigo Seguros, an insurance technology company providing affordable access to car insurance for immigrant and working class communities. He has spoken at dozens of events about entrepreneurship and building insurance technolog...",
+  "location": {
+    "city": "Dover",
+    "state": "NJ",
+    "address": ""
+  }
+}

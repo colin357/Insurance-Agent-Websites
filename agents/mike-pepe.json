@@ -1,0 +1,16 @@
+{
+  "slug": "mike-pepe",
+  "template": "local-friendly",
+  "name": "Mike Pepe",
+  "phone": "",
+  "email": "mpepe@proformex.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "After two decades in the life insurance industry, I recognized a critical need to transform how financial professionals access and utilize insurance data. This insight led me to found Proformex, evolving my experience into an innovative technology platform...",
+  "location": {
+    "city": "Parma Heights",
+    "state": "OH",
+    "address": ""
+  }
+}

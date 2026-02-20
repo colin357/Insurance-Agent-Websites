@@ -1,0 +1,16 @@
+{
+  "slug": "mohit-vakil",
+  "template": "bold-professional",
+  "name": "Mohit Vakil",
+  "phone": "",
+  "email": "mohit@insurelab.net",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I’m the co-founder of InsureLab, a venture-backed startup, where we’re building the first AI-native insurance company, starting with management liability coverage for non-profits. <br><br>Business insurance is manual, slow, and underserved. We’re changing t...",
+  "location": {
+    "city": "United States",
+    "state": "",
+    "address": ""
+  }
+}

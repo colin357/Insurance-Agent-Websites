@@ -1,0 +1,16 @@
+{
+  "slug": "michelle-rupp-cpcu-aai",
+  "template": "clean-corporate-grid",
+  "name": "Michelle Rupp, Cpcu, Aai",
+  "phone": "",
+  "email": "micheller@nrg-insurance.com",
+  "photo": "",
+  "gender": "female",
+  "licenseNumber": "FL-W384921",
+  "bio": "I found a place at NRG Insurance to innovate and create both with clients in the insurance arena and in related areas that impact our business: improving automation in our VERY antiquated industry, figuring out how work works in balancing all of the demands...",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "address": ""
+  }
+}

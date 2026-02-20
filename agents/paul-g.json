@@ -1,0 +1,16 @@
+{
+  "slug": "paul-g",
+  "template": "tech-forward",
+  "name": "Paul G.",
+  "phone": "",
+  "email": "paul@harborai.net",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Founder and Chief Executive Officer Harbor.ai<br><br>Award winning insurance technology…",
+  "location": {
+    "city": "New York City",
+    "state": "NY",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "pete-kelly",
+  "template": "split-screen-hero",
+  "name": "Pete Kelly",
+  "phone": "",
+  "email": "petekelly@texaslifehealth.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "As an innovative and analytical operations leader that believes a company’s success is determined by efficiency, profitability, and customer satisfaction, I have spent my career partnering with firms and implementing systems that accomplish short- and long-...",
+  "location": {
+    "city": "Frisco",
+    "state": "TX",
+    "address": ""
+  }
+}

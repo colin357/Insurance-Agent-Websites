@@ -1,0 +1,16 @@
+{
+  "slug": "nathan-kropp",
+  "template": "classic-trust",
+  "name": "Nathan Kropp",
+  "phone": "",
+  "email": "nathan.kropp@contactability.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Columbus",
+    "state": "OH",
+    "address": ""
+  }
+}

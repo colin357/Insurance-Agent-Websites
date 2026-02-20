@@ -1,0 +1,16 @@
+{
+  "slug": "omar-diaz",
+  "template": "clean-corporate-grid",
+  "name": "Omar Diaz",
+  "phone": "",
+  "email": "omar@thediazagency.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "El Paso",
+    "state": "TX",
+    "address": ""
+  }
+}

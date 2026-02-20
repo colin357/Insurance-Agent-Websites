@@ -1,0 +1,16 @@
+{
+  "slug": "mike-lay",
+  "template": "split-screen-hero",
+  "name": "Mike Lay",
+  "phone": "",
+  "email": "mike@insconnectioninc.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Experienced Insurance agent with a demonstrated history of working in Sales. Skilled in Negotiation, Management, Customer Service and Sales. Strong finance professional with over 35 years of experience.",
+  "location": {
+    "city": "Jupiter",
+    "state": "FL",
+    "address": ""
+  }
+}

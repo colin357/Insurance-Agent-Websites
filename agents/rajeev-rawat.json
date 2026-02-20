@@ -1,0 +1,16 @@
+{
+  "slug": "rajeev-rawat",
+  "template": "local-friendly",
+  "name": "Rajeev Rawat",
+  "phone": "",
+  "email": "rajeev@gigaforce.io",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "A technology professional with over 20+ years management experience and a proven track record of delivering high-profile CRM, Data Warehouse, Business Intelligence, Big Data solutions across multiple functional areas and industries(Communication, Pharmaceut...",
+  "location": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": ""
+  }
+}

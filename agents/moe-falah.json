@@ -1,0 +1,16 @@
+{
+  "slug": "moe-falah",
+  "template": "clean-corporate-grid",
+  "name": "Moe Falah",
+  "phone": "",
+  "email": "moe@teamblfg.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "No data found",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "address": ""
+  }
+}

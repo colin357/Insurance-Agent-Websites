@@ -1,0 +1,16 @@
+{
+  "slug": "phillip-berry",
+  "template": "card-first-mosaic",
+  "name": "Phillip Berry",
+  "phone": "",
+  "email": "phil.berry@nwpharma.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Northwind helps self-funded health plan sponsors control healthcare costs by producing…",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": ""
+  }
+}

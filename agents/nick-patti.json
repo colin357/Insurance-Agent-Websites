@@ -1,0 +1,16 @@
+{
+  "slug": "nick-patti",
+  "template": "tech-forward",
+  "name": "Nick Patti",
+  "phone": "",
+  "email": "nick@erbandyoung.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "My college career led me to 2 different universities as a division 1 athlete, earning a 4-year letterman status. I have used my experiences as a collegiate football athlete to develop various skills that have been exponentially beneficial to me in the corpo...",
+  "location": {
+    "city": "Jupiter",
+    "state": "FL",
+    "address": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "novee-thandi",
+  "template": "card-first-mosaic",
+  "name": "Novee Thandi",
+  "phone": "",
+  "email": "nthandi@maflife.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Life's greatest pleasures are earned, not bought. - Paul Walker",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "address": ""
+  }
+}

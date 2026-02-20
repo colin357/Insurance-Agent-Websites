@@ -1,0 +1,16 @@
+{
+  "slug": "patrick-long",
+  "template": "card-first-mosaic",
+  "name": "Patrick Long",
+  "phone": "",
+  "email": "patrick@herohealthplans.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "I provide self-insurance solutions to Middle Market executives and their trusted advisors. Educational events are the foundation of my success. I work with decision-makers to improve efficiencies, EBITDA and legacies. Here are a few places where I have pres...",
+  "location": {
+    "city": "Chapel Hill",
+    "state": "NC",
+    "address": ""
+  }
+}

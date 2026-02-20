@@ -1,0 +1,16 @@
+{
+  "slug": "nicolas-lares-pwca",
+  "template": "bold-editorial",
+  "name": "Nicolas Lares, Pwca",
+  "phone": "",
+  "email": "nicolas@insur3tech.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "CEO of Insur3Tech.<br><br>Insur3Tech helps real estate operators and PMs stop losing…",
+  "location": {
+    "city": "Chicago Loop",
+    "state": "IL",
+    "address": ""
+  }
+}

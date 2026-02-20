@@ -1,0 +1,16 @@
+{
+  "slug": "mike-shannon",
+  "template": "local-friendly",
+  "name": "Mike Shannon",
+  "phone": "",
+  "email": "mike@trifitbd.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Author of \"Hooked on Hopium\" and a Sales Force Development Expert with over a decade of helping non-sales professionals learn to sell, Mike's clients typically grow by more than 25% per year. Mike also runs a boutique recruiting business placing exceptional...",
+  "location": {
+    "city": "Eagleview",
+    "state": "PA",
+    "address": ""
+  }
+}

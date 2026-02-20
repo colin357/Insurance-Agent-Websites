@@ -1,0 +1,16 @@
+{
+  "slug": "mike-copeland",
+  "template": "bold-editorial",
+  "name": "Mike Copeland",
+  "phone": "",
+  "email": "",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Skipped",
+  "location": {
+    "city": "Franklin County",
+    "state": "OH",
+    "address": ""
+  }
+}

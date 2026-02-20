@@ -1,0 +1,16 @@
+{
+  "slug": "oscar-martinez",
+  "template": "classic-trust",
+  "name": "Oscar Martinez",
+  "phone": "",
+  "email": "o.martinez@univistainsurance.com",
+  "photo": "",
+  "gender": "male",
+  "licenseNumber": "FL-W384921",
+  "bio": "Responsible for the day-to-day operations of Tricomm LLC . Duties include recruiting employees, assigning tasks, directing work, identifying new business opportunities and meeting objectives within the region.",
+  "location": {
+    "city": "Broward County",
+    "state": "FL",
+    "address": ""
+  }
+}
