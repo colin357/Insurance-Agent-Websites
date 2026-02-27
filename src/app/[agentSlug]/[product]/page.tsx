@@ -1,16 +1,12 @@
 import { notFound } from "next/navigation";
-import { getAgent, getAllAgentSlugs } from "@/lib/agents";
-import { getProduct, getAllProductSlugs } from "@/lib/products";
+import { getAgent } from "@/lib/agents";
+import { getProduct } from "@/lib/products";
 import { getTemplate } from "@/templates";
 
-export function generateStaticParams() {
-  const agentSlugs = getAllAgentSlugs();
-  const productSlugs = getAllProductSlugs();
-
-  return agentSlugs.flatMap((agentSlug) =>
-    productSlugs.map((product) => ({ agentSlug, product }))
-  );
-}
+// Product pages are rendered on-demand and cached by Vercel (ISR).
+// This avoids pre-building agents × products combinations, keeping
+// the deployment well under Vercel's 75 MB size limit.
+export const dynamicParams = true;
 
 export async function generateMetadata({
   params,
