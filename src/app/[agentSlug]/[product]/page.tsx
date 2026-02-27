@@ -3,8 +3,8 @@ import { getAgent, getAllAgentSlugs } from "@/lib/agents";
 import { getProduct, getAllProductSlugs } from "@/lib/products";
 import { getTemplate } from "@/templates";
 
-export async function generateStaticParams() {
-  const agentSlugs = await getAllAgentSlugs();
+export function generateStaticParams() {
+  const agentSlugs = getAllAgentSlugs();
   const productSlugs = getAllProductSlugs();
 
   return agentSlugs.flatMap((agentSlug) =>
@@ -18,7 +18,7 @@ export async function generateMetadata({
   params: Promise<{ agentSlug: string; product: string }>;
 }) {
   const { agentSlug, product: productSlug } = await params;
-  const agent = await getAgent(agentSlug);
+  const agent = getAgent(agentSlug);
   const product = getProduct(productSlug);
   if (!agent || !product) return { title: "Not Found" };
   return {
@@ -33,7 +33,7 @@ export default async function ProductPage({
   params: Promise<{ agentSlug: string; product: string }>;
 }) {
   const { agentSlug, product: productSlug } = await params;
-  const agent = await getAgent(agentSlug);
+  const agent = getAgent(agentSlug);
   if (!agent) notFound();
 
   const product = getProduct(productSlug);

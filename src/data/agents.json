@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "jane-cooper",
+    "template": "bold-professional",
+    "name": "Jane Cooper",
+    "phone": "(555) 123-4567",
+    "email": "jane@cooperinsurance.com",
+    "photo": "",
+    "gender": "female",
+    "licenseNumber": "CA-1234567",
+    "bio": "With over 15 years of experience in the insurance industry, I specialize in helping families and businesses find the perfect coverage. My mission is to make insurance simple, affordable, and personalized to your unique needs.",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "address": "123 Market Street, Suite 400"
+    }
+  },
+  {
+    "slug": "john-smith",
+    "template": "warm-friendly",
+    "name": "John Smith",
+    "phone": "(555) 987-6543",
+    "email": "john@smithinsurance.com",
+    "photo": "",
+    "gender": "male",
+    "licenseNumber": "TX-9876543",
+    "bio": "As a licensed insurance agent with a decade of experience, I believe everyone deserves quality coverage they can understand. I take the time to listen to your needs and find solutions that protect what matters most.",
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "address": "456 Congress Avenue, Suite 200"
+    }
+  }
+]

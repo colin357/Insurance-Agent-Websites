@@ -4,7 +4,7 @@
  * Usage:
  *   npx tsx scripts/create-agent-quick.ts \
  *     --name "John Smith" \
- *     --template modern-minimalist \
+ *     --template modern-glassmorphism \
  *     --phone "(555) 123-4567" \
  *     --email "john@example.com" \
  *     --license "TX-1234567" \
@@ -84,13 +84,17 @@ const config = {
   },
 };
 
-const agentsDir = path.join(process.cwd(), "agents");
-if (!fs.existsSync(agentsDir)) {
-  fs.mkdirSync(agentsDir, { recursive: true });
+const AGENTS_FILE = path.join(process.cwd(), "src", "data", "agents.json");
+
+const existing = JSON.parse(fs.readFileSync(AGENTS_FILE, "utf-8"));
+const duplicate = existing.findIndex((a: { slug: string }) => a.slug === slug);
+if (duplicate !== -1) {
+  existing[duplicate] = config;
+  console.log(`Agent with slug "${slug}" already exists — updated.`);
+} else {
+  existing.push(config);
 }
+fs.writeFileSync(AGENTS_FILE, JSON.stringify(existing, null, 2) + "\n");
 
-const filePath = path.join(agentsDir, `${slug}.json`);
-fs.writeFileSync(filePath, JSON.stringify(config, null, 2) + "\n");
-
-console.log(`Agent created: ${filePath}`);
+console.log(`Agent saved to: ${AGENTS_FILE}`);
 console.log(`Site URL: /${slug}`);
