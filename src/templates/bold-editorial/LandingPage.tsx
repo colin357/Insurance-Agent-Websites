@@ -354,12 +354,20 @@ export default function BoldEditorialLanding({
                             : "bg-gray-100"
                         } group-hover:shadow-2xl transition-shadow duration-500`}
                       >
-                        <div className="absolute inset-0 flex items-center justify-center">
-                          <ProductIcon
-                            icon={product.icon}
-                            className="w-20 h-20 text-gray-300 group-hover:text-rose-400 transition-colors duration-500"
+                        {product.image ? (
+                          <img
+                            src={product.image}
+                            alt={product.name}
+                            className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                           />
-                        </div>
+                        ) : (
+                          <div className="absolute inset-0 flex items-center justify-center">
+                            <ProductIcon
+                              icon={product.icon}
+                              className="w-20 h-20 text-gray-300 group-hover:text-rose-400 transition-colors duration-500"
+                            />
+                          </div>
+                        )}
                         {/* Corner accent */}
                         <div className="absolute top-0 left-0 w-16 h-16 border-t-2 border-l-2 border-rose-600/0 group-hover:border-rose-600 transition-colors duration-500" />
                         <div className="absolute bottom-0 right-0 w-16 h-16 border-b-2 border-r-2 border-rose-600/0 group-hover:border-rose-600 transition-colors duration-500" />

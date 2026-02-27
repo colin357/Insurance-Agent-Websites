@@ -35,6 +35,7 @@ export interface ProductInfo {
   shortDescription: string;
   heroDescription: string;
   icon: string;
+  image?: string;
   benefits: string[];
   coverageDetails: string[];
   faqs: { question: string; answer: string }[];
