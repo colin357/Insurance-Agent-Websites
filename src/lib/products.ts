@@ -103,7 +103,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "From fender benders to major accidents, the right auto insurance keeps you protected on the road. I'll find you comprehensive coverage at competitive rates from top-rated carriers.",
     icon: "car",
-    image: "https://images.unsplash.com/photo-1449965408869-ebd3fee56fd0?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80",
     benefits: [
       "Liability coverage to protect you if you cause an accident",
       "Collision coverage for damage to your vehicle",
@@ -292,7 +292,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "Final expense insurance covers funeral costs, medical bills, and other end-of-life expenses so your family doesn't have to. These affordable policies are easy to qualify for and provide lasting peace of mind.",
     icon: "flower",
-    image: "https://images.unsplash.com/photo-1501004318855-fce2e4752078?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=800&q=80",
     benefits: [
       "Cover funeral and burial costs averaging $7,000-$15,000",
       "Pay off remaining medical bills and debts",
