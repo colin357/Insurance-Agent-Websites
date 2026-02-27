@@ -1,10 +1,8 @@
 import { notFound } from "next/navigation";
-import { getAgent, getAllAgentSlugs } from "@/lib/agents";
+import { getAgent } from "@/lib/agents";
 import { getTemplate } from "@/templates";
 
-export async function generateStaticParams() {
-  return (await getAllAgentSlugs()).map((slug) => ({ agentSlug: slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,

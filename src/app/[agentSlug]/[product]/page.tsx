@@ -1,16 +1,9 @@
 import { notFound } from "next/navigation";
-import { getAgent, getAllAgentSlugs } from "@/lib/agents";
-import { getProduct, getAllProductSlugs } from "@/lib/products";
+import { getAgent } from "@/lib/agents";
+import { getProduct } from "@/lib/products";
 import { getTemplate } from "@/templates";
 
-export async function generateStaticParams() {
-  const agentSlugs = await getAllAgentSlugs();
-  const productSlugs = getAllProductSlugs();
-
-  return agentSlugs.flatMap((agentSlug) =>
-    productSlugs.map((product) => ({ agentSlug, product }))
-  );
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,
