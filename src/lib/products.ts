@@ -9,6 +9,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "Life insurance provides a financial safety net for your loved ones. Whether you need term life for affordable coverage or whole life for lifelong protection, I'll help you find the right policy.",
     icon: "shield",
+    image: "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&q=80",
     benefits: [
       "Financial protection for your family if something happens to you",
       "Cover mortgage payments, education costs, and daily expenses",
@@ -55,6 +56,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "Don't let unexpected medical bills derail your finances. I'll help you navigate the complex world of health insurance to find a plan that covers your needs and fits your budget.",
     icon: "heart",
+    image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&q=80",
     benefits: [
       "Access to preventive care and wellness programs",
       "Protection against catastrophic medical expenses",
@@ -101,6 +103,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "From fender benders to major accidents, the right auto insurance keeps you protected on the road. I'll find you comprehensive coverage at competitive rates from top-rated carriers.",
     icon: "car",
+    image: "https://images.unsplash.com/photo-1449965408869-ebd3fee56fd0?w=800&q=80",
     benefits: [
       "Liability coverage to protect you if you cause an accident",
       "Collision coverage for damage to your vehicle",
@@ -147,6 +150,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "Your home is likely your largest investment. I'll help you find comprehensive homeowners insurance that protects your property, belongings, and family from unexpected events.",
     icon: "home",
+    image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
     benefits: [
       "Dwelling coverage for your home's structure",
       "Personal property protection for your belongings",
@@ -193,6 +197,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "Every business faces unique risks. From general liability to workers' compensation, I'll build a comprehensive insurance package that protects your business, employees, and bottom line.",
     icon: "building",
+    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
     benefits: [
       "General liability protection for your business",
       "Commercial property coverage for your assets",
@@ -239,6 +244,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "Turning 65 or newly eligible for Medicare? I'll guide you through Medicare Parts A, B, C, and D, plus Medigap supplements, to ensure you have comprehensive healthcare coverage in retirement.",
     icon: "plus-circle",
+    image: "https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?w=800&q=80",
     benefits: [
       "Expert guidance through Medicare enrollment",
       "Help choosing between Original Medicare and Medicare Advantage",
@@ -286,6 +292,7 @@ export const products: ProductInfo[] = [
     heroDescription:
       "Final expense insurance covers funeral costs, medical bills, and other end-of-life expenses so your family doesn't have to. These affordable policies are easy to qualify for and provide lasting peace of mind.",
     icon: "flower",
+    image: "https://images.unsplash.com/photo-1501004318855-fce2e4752078?w=800&q=80",
     benefits: [
       "Cover funeral and burial costs averaging $7,000-$15,000",
       "Pay off remaining medical bills and debts",
