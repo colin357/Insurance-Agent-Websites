@@ -1728,22 +1728,6 @@
     }
   },
   {
-    "slug": "adam-ziegler",
-    "template": "tech-forward",
-    "name": "Adam Ziegler",
-    "phone": "",
-    "email": "aziegler@oreadinsurance.com",
-    "photo": "",
-    "gender": "male",
-    "licenseNumber": "FL-W384921",
-    "bio": "No data found",
-    "location": {
-      "city": "Prairie Village",
-      "state": "KS",
-      "address": ""
-    }
-  },
-  {
     "slug": "nate-lewis",
     "template": "warm-friendly",
     "name": "Nate Lewis",
