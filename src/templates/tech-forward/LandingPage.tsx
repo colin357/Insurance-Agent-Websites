@@ -964,6 +964,12 @@ export default function TechForwardLanding({
               &copy; {new Date().getFullYear()} {agent.name}. All rights
               reserved.
             </p>
+            <p className="text-gray-500 text-xs">
+              Designed by{" "}
+              <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+                Own It Social
+              </a>
+            </p>
             <div className="flex gap-6">
               <a
                 href="#"

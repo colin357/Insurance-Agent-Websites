@@ -533,6 +533,12 @@ export default function ModernGlassmorphismLanding({
         </div>
         <div className="max-w-6xl mx-auto mt-8 pt-8 border-t border-white/10 text-center text-xs text-white/40">
           <p>License #{agent.licenseNumber}</p>
+          <p className="mt-2">
+            Designed by{" "}
+            <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+              Own It Social
+            </a>
+          </p>
         </div>
       </footer>
     </div>

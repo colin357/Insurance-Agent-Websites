@@ -355,6 +355,12 @@ export default function WarmFriendlyProduct({
           </div>
           <div className="border-t border-stone-700 pt-8 text-center text-xs text-stone-500">
             <p>License #{agent.licenseNumber}</p>
+            <p className="mt-2">
+              Designed by{" "}
+              <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+                Own It Social
+              </a>
+            </p>
           </div>
         </div>
       </footer>

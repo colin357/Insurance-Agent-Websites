@@ -520,6 +520,12 @@ export default function DarkModeDefaultLanding({
           </div>
           <div className="mt-10 pt-6 border-t border-zinc-800/50 text-center text-xs text-zinc-600">
             <p>License #{agent.licenseNumber}</p>
+            <p className="mt-2">
+              Designed by{" "}
+              <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+                Own It Social
+              </a>
+            </p>
           </div>
         </div>
       </footer>

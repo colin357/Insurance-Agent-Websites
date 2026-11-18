@@ -610,6 +610,12 @@ export default function SplitScreenHeroProduct({
               &copy; {new Date().getFullYear()} {agent.name}. All rights
               reserved.
             </p>
+            <p className="text-slate-500 text-sm">
+              Designed by{" "}
+              <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+                Own It Social
+              </a>
+            </p>
             <Link
               href={`/${agent.slug}`}
               className="text-slate-500 text-sm hover:text-indigo-400 transition-colors"
