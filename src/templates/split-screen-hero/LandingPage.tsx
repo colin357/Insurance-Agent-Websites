@@ -665,6 +665,12 @@ export default function SplitScreenHeroLanding({
           <div className="mt-12 pt-8 border-t border-slate-800 text-center text-slate-500 text-sm">
             &copy; {new Date().getFullYear()} {agent.name}. All rights
             reserved.
+            <p className="mt-2">
+              Designed by{" "}
+              <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+                Own It Social
+              </a>
+            </p>
           </div>
         </div>
       </footer>

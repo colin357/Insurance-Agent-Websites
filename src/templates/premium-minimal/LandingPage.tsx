@@ -709,6 +709,12 @@ export default function PremiumMinimalLanding({
               &copy; {new Date().getFullYear()} {agent.name}. All rights
               reserved.
             </p>
+            <p className="text-xs text-gray-400 font-light tracking-wide mt-2">
+              Designed by{" "}
+              <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+                Own It Social
+              </a>
+            </p>
           </div>
         </div>
       </footer>

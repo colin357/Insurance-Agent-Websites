@@ -441,6 +441,12 @@ export default function BoldProfessionalLanding({ agent }: { agent: AgentConfig 
           </div>
           <div className="mt-12 pt-8 border-t border-white/5 text-center text-xs text-gray-600">
             <p>License #{agent.licenseNumber}</p>
+            <p className="mt-2">
+              Designed by{" "}
+              <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+                Own It Social
+              </a>
+            </p>
           </div>
         </div>
       </footer>

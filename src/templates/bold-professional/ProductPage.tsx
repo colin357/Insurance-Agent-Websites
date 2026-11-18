@@ -397,7 +397,15 @@ export default function BoldProfessionalProduct({
               Licensed Insurance Agent — {agent.location.city}, {agent.location.state}
             </p>
           </div>
-          <p className="text-xs text-gray-600">License #{agent.licenseNumber}</p>
+          <div className="text-xs text-gray-600 text-center md:text-right">
+            <p>License #{agent.licenseNumber}</p>
+            <p className="mt-2">
+              Designed by{" "}
+              <a href="https://ownitsocial.com" target="_blank" rel="noopener" className="hover:underline">
+                Own It Social
+              </a>
+            </p>
+          </div>
         </div>
       </footer>
     </div>
